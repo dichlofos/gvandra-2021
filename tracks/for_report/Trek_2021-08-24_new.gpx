@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="StravaGPX" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+ <metadata>
+  <time>2021-08-24T06:24:24Z</time>
+ </metadata>
+ <wpt lat="43.2305799890" lon="42.2486059070"><ele>3486</ele>
+     <name>Podarok_(2A)</name>
+ </wpt>
+ <trk>
+  <name>Gvandra_mvel_24.08.2021</name>
+  <trkseg><trkpt lat="43.2300650887" lon="42.2504460812"><ele>3432.04</ele><time>2021-08-24T06:24:24Z</time></trkpt><trkpt lat="43.2297711354" lon="42.2495550010"><ele>3473.38</ele><time>2021-08-24T06:26:02Z</time></trkpt><trkpt lat="43.2299328223" lon="42.2490541823"><ele>3482.99</ele><time>2021-08-24T06:27:44Z</time></trkpt><trkpt lat="43.2301999535" lon="42.2486454807"><ele>3495.97</ele><time>2021-08-24T06:30:45Z</time></trkpt><trkpt lat="43.2305799890" lon="42.2486059070"><ele>3486.36</ele><time>2021-08-24T06:34:57Z</time></trkpt><trkpt lat="43.2301887218" lon="42.2486957721"><ele>3488.28</ele><time>2021-08-24T09:01:03Z</time></trkpt><trkpt lat="43.2299546152" lon="42.2491081618"><ele>3471.94</ele><time>2021-08-24T09:02:33Z</time></trkpt><trkpt lat="43.2297664415" lon="42.2496976610"><ele>3460.88</ele><time>2021-08-24T09:04:30Z</time></trkpt><trkpt lat="43.2298134640" lon="42.2502938658"><ele>3446.46</ele><time>2021-08-24T09:06:11Z</time></trkpt><trkpt lat="43.2302197348" lon="42.2503758408"><ele>3436.85</ele><time>2021-08-24T09:10:59Z</time></trkpt></trkseg></trk></gpx>
