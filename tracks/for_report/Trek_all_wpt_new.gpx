@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="StravaGPX" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+ <metadata>
+  <time>2021-08-19T08:00:35Z</time>
+ </metadata>
+ <wpt lat="43.3529793285" lon="42.1942781936"><ele>1590.16</ele>
+     <name>Start</name>
+ </wpt>
+ <wpt lat="43.31104" lon="42.30051"><ele>2120</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.30128" lon="42.31929"><ele>2171</ele>
+     <name>Voroshil_koshi</name>
+ </wpt>
+ <wpt lat="43.295144" lon="42.354574"><ele>2390</ele>
+     <name>Rodnik</name>
+ </wpt>
+ <wpt lat="43.2926312182" lon="42.3518593982"><ele>2350</ele>
+     <name>MN1</name>
+ </wpt>
+ <wpt lat="43.25408" lon="42.36122"><ele>3220</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.25009" lon="42.35437"><ele>3220</ele>
+     <name>Kichkinekol_Vost_(1A*)</name>
+ </wpt>
+ <wpt lat="43.2493737247" lon="42.3386578169"><ele>2987</ele>
+     <name>MN2</name>
+ </wpt>
+ <wpt lat="43.22963" lon="42.31412"><ele>3050</ele>
+     <name>Baran_Lby</name>
+ </wpt>
+ <wpt lat="43.22928" lon="42.30374"><ele>3366</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2285586093" lon="42.3041904252"><ele>3385</ele>
+     <name>Achauchat_(2A)</name>
+ </wpt>
+ <wpt lat="43.2255109493" lon="42.2977883276"><ele>3271</ele>
+     <name>MN3</name>
+ </wpt>
+ <wpt lat="43.22719" lon="42.27750"><ele>2630</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2288833242" lon="42.2713937983"><ele>2795.17</ele>
+     <name>MN4</name>
+ </wpt>
+ <wpt lat="43.2300650887" lon="42.2504460812"><ele>3432.04</ele>
+     <name>MN5_MN6</name>
+ </wpt>
+ <wpt lat="43.2329543307" lon="42.2578058951"><ele>3143.17</ele>
+     <name>Lednik</name>
+ </wpt>
+ <wpt lat="43.2305799890" lon="42.2486059070"><ele>3486</ele>
+     <name>Podarok_(2A)</name>
+ </wpt>
+ <wpt lat="43.2476680074" lon="42.2150901239"><ele>3057</ele>
+     <name>MN7</name>
+ </wpt>
+ <wpt lat="43.2354748528" lon="42.2418599110"><ele>3145.57</ele>
+     <name>Kurumnik</name>
+ </wpt>
+ <wpt lat="43.2349004410" lon="42.2381926607"><ele>3041.27</ele>
+     <name>Travers</name>
+ </wpt>
+ <wpt lat="43.2415532414" lon="42.2346508875"><ele>2780</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2441546489" lon="42.2193503100"><ele>3206.13</ele>
+     <name>Mal_Kichkinekol_(1A)</name>
+ </wpt>
+ <wpt lat="43.2677285001" lon="42.1250345372"><ele>2792.29</ele>
+     <name>MN8</name>
+ </wpt>
+ <wpt lat="43.2565892022" lon="42.1815148182"><ele>2206.36</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.27666" lon="42.16825"><ele>2095.33</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.28429" lon="42.17292"><ele>2030</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.2837327383" lon="42.1733233519"><ele>2027</ele>
+     <name>Uzunkol</name>
+ </wpt>
+ <wpt lat="43.27133" lon="42.15981"><ele>2158</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.2592201140" lon="42.0886761043"><ele>3195.56</ele>
+     <name>MN9</name>
+ </wpt>
+ <wpt lat="43.2625728752" lon="42.1109158080"><ele>3155.66</ele>
+     <name>Ozerkoviy_(NK)</name>
+ </wpt>
+ <wpt lat="43.25517" lon="42.10394"><ele>3149.66</ele>
+     <name>Prolaz-79_(NK)</name>
+ </wpt>
+ <wpt lat="43.2548733428" lon="42.1025302168"><ele>3168.64</ele>
+     <name>tur</name>
+ </wpt>
+ <wpt lat="43.2528424915" lon="42.0903945621"><ele>3483.96</ele>
+     <name>Aktur_Vost_(1B)</name>
+ </wpt>
+ <wpt lat="43.2940809522" lon="42.0113201905"><ele>1734</ele>
+     <name>MN10</name>
+ </wpt>
+ <wpt lat="43.27307" lon="42.06729"><ele>2681</ele>
+     <name>Easy_Way</name>
+ </wpt>
+ <wpt lat="43.27441" lon="42.06914"><ele>2681</ele>
+     <name>Hard_Way</name>
+ </wpt>
+ <wpt lat="43.2913076319" lon="42.0568271354"><ele>2280</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.29664" lon="42.04659"><ele>2200</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.30500" lon="42.02509"><ele>2065</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.30146" lon="42.01165"><ele>1706</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.3190587722" lon="42.0000131708"><ele>1671</ele>
+     <name>Globus</name>
+ </wpt>
+ <wpt lat="43.2281363290" lon="41.9604926649"><ele>2875.92</ele>
+     <name>MN11</name>
+ </wpt>
+ <wpt lat="43.2837581355" lon="42.0110085513"><ele>1792.52</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.2625093404" lon="42.0086956490"><ele>1861.73</ele>
+     <name>Most</name>
+ </wpt>
+ <wpt lat="43.2634407375" lon="42.0090145804"><ele>1850.19</ele>
+     <name>PogranPost</name>
+ </wpt>
+ <wpt lat="43.25506" lon="42.00322"><ele>1898</ele>
+     <name>Kosh</name>
+ </wpt>
+ <wpt lat="43.22705" lon="41.97643"><ele>2240</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2414824143" lon="41.9388995413"><ele>2752.87</ele>
+     <name>MN12</name>
+ </wpt>
+ <wpt lat="43.2250122260" lon="41.9534419756"><ele>3039.35</ele>
+     <name>Lednik</name>
+ </wpt>
+ <wpt lat="43.2246787939" lon="41.9499394298"><ele>3140.28</ele>
+     <name>Kurumnik</name>
+ </wpt>   
+ <wpt lat="43.2255700417" lon="41.9480543397"><ele>3231.13</ele>
+     <name>Lednik</name>
+ </wpt>
+ <wpt lat="43.2304875366" lon="41.9466589205"><ele>3192.68</ele>
+     <name>Gondaray-Makhar_(1B)</name>
+ </wpt>
+ <wpt lat="43.2512005605" lon="41.9080531318"><ele>2591.85</ele>
+     <name>MN13</name>
+ </wpt>
+ <wpt lat="43.2482247334" lon="41.9231937826"><ele>2264.52</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.24859" lon="41.92424"><ele>2264.52</ele>
+     <name>PogranPost</name>
+ </wpt>
+ <wpt lat="43.2742789574" lon="41.8702297099"><ele>2862.46</ele>
+     <name>MN14</name>
+ </wpt>
+ <wpt lat="43.2636494469" lon="41.8814275134"><ele>3135.00</ele>
+     <name>Kichi-Murudzhu_Centr_(1A)</name>
+ </wpt>
+ <wpt lat="43.2672656514" lon="41.8782288954"><ele>2947.54</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2791018207" lon="41.8829844519"><ele>3266.22</ele>
+     <name>MN15</name>
+ </wpt>
+ <wpt lat="43.2515832782" lon="41.9078258146"><ele>2587.04</ele>
+     <name>MN16</name>
+ </wpt>
+ <wpt lat="43.3406811487" lon="41.9998193812"><ele>1655.53</ele>
+     <name>MN17</name>
+ </wpt>
+ <wpt lat="43.2580678537" lon="41.9305951707"><ele>2129.94</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.2998748589" lon="41.9641050976"><ele>1864.13</ele>
+     <name>PogranPost</name>
+ </wpt>
+ <wpt lat="43.3121955022" lon="41.9871891104"><ele>1761.27</ele>
+     <name>Narzan</name>
+ </wpt>
+ <wpt lat="43.31950" lon="42.00053"><ele>1706</ele>
+     <name>Globus</name>
+ </wpt>
+ <wpt lat="43.4385200031" lon="42.0718117990"><ele>1510.37</ele>
+     <name>MN18</name>
+ </wpt>
+ <wpt lat="43.4086150490" lon="41.9970865455"><ele>1537.29</ele>
+     <name>Med</name>
+ </wpt>
+ <wpt lat="43.4090442024" lon="41.9990790077"><ele>1533.92</ele>
+     <name>Obed</name>
+ </wpt>
+ <wpt lat="43.4595294110" lon="42.0990897808"><ele>1358.00</ele>
+     <name>End</name>
+ </wpt>
