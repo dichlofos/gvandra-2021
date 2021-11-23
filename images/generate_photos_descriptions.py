@@ -23,20 +23,32 @@ def main():
             # author = cols[2]
             # todo = cols[3]
             description = cols[4]
+            if description[-1] == '.':
+                # cut dots
+                description = description[:-1]
 
             if prev_day != day:
                 # skip new line at next day
                 prev_day = day
+                proper_in_day = 1
                 print()
 
-            md_line = '![](images/{image_name}.jpg "Фото {photo_id}. {description}")'.format(
+            if str(proper_in_day) != in_day_id:
+                print("Inconsistent numbering at", photo_id)
+                # sys.exit(1)
+
+            md_line = (
+                '<a name="{photo_id}"></a>\n'
+                '![](images/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                '<p style="text-align: center">{photo_id}. {description}</p>\n'
+            ).format(
                 photo_id=photo_id,
                 image_name=image_name,
                 description=description,
             )
             print(md_line)
 
-            # print(photo_id, image_name, description)
+            proper_in_day += 1
 
 
 if __name__ == "__main__":
