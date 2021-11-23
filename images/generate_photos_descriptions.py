@@ -29,7 +29,8 @@ def main():
                 prev_day = day
                 print()
 
-            md_line = '![](images/{image_name}.jpg "{description}")'.format(
+            md_line = '![](images/{image_name}.jpg "Фото {photo_id}. {description}")'.format(
+                photo_id=photo_id,
                 image_name=image_name,
                 description=description,
             )
