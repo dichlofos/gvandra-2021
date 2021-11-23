@@ -68,7 +68,7 @@ def main():
             md_line = (
                 '<a name="{photo_id}"></a>\n'
                 '![](images/{image_name}.jpg "Фото {photo_id}. {description}")\n'
-                '<p style="text-align: center">{photo_id}. {description}</p>\n'
+                '<p style="text-align: center">{photo_id}. {description}</p>\n\n'
             ).format(
                 photo_id=photo_id,
                 image_name=image_name,
