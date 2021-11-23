@@ -4,16 +4,22 @@ import re
 import sys
 
 
+def _flush_block(day, photo_block, report_text):
+    begin = '<a name="photo_{}"></a>'.format(day)
+    end = '<a name="photo_end_{}"></a>'.format(day)
+    marker = begin + r'.*?' + end
+    print(marker)
+    return re.sub(marker, begin + '\n' + photo_block + end, report_text, flags=re.DOTALL)
+
+
+_REPORT_NAME = "../report_gvandra_2021.md"
+# _REPORT_NAME = "../x.md"
+
+
 def main():
     report_text = None
-    with open("../report_gvandra_2021.md", encoding="utf-8") as f_r:
+    with open(_REPORT_NAME, encoding="utf-8") as f_r:
         report_text = f_r.read()
-
-    def _flush_block(day, photo_block, report_text):
-        begin = '<a name="photo_{}"></a>'.format(day)
-        end = '<a name="photo_end_{}"></a>'.format(day)
-        marker = begin + r'.*?' + end
-        return re.sub(marker, begin + photo_block + end, report_text)
 
     with open(sys.argv[1], encoding='utf-8') as f:
         first = True
@@ -44,9 +50,11 @@ def main():
 
             if prev_day != day:
                 if photo_block:
-                    new_report_text = _flush_block(day, photo_block, report_text)
+                    new_report_text = _flush_block(prev_day, photo_block, report_text)
+                    print(prev_day)
                     assert new_report_text != report_text
                     report_text = new_report_text
+                    photo_block = ''
 
                 # skip new line at next day
                 prev_day = day
@@ -73,8 +81,14 @@ def main():
 
         if photo_block:
             new_report_text = _flush_block(day, photo_block, report_text)
+            # print(day)
             assert new_report_text != report_text
             report_text = new_report_text
+
+    # print(report_text)
+
+    with open(_REPORT_NAME, 'w', encoding='utf-8') as f:
+        f.write(report_text)
 
 
 if __name__ == "__main__":
