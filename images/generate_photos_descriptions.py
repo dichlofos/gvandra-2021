@@ -2,7 +2,11 @@
 
 import re
 import sys
-import json
+
+
+_PHOTOS_DESC_NAME = "images.tsv"
+_REPORT_NAME = "../source_report_gvandra_2021.md"
+_OUTPUT_REPORT_NAME = "../report_gvandra_2021.md"
 
 
 def _flush_block(day, photo_block, report_text):
@@ -11,11 +15,6 @@ def _flush_block(day, photo_block, report_text):
     marker = begin + r'.*?' + end
     print(marker)
     return re.sub(marker, begin + '\n' + photo_block + end, report_text, flags=re.DOTALL)
-
-
-_PHOTOS_DESC_NAME = "images.tsv"
-_REPORT_NAME = "../source_report_gvandra_2021.md"
-_OUTPUT_REPORT_NAME = "../report_gvandra_2021.md"
 
 
 def _read_file(file_name):
@@ -27,8 +26,12 @@ def _read_file(file_name):
 
 def main():
     source_report_text = _read_file(_REPORT_NAME)
+    assert source_report_text
+
+    report_text = source_report_text
 
     photos = {}
+    photos_by_day = {}
 
     with open(_PHOTOS_DESC_NAME, encoding='utf-8') as f:
         first = True
@@ -69,6 +72,11 @@ def main():
             }
             photos[image_name] = photo
 
+            if day not in photos_by_day:
+                photos_by_day[day] = []
+
+            photos_by_day[day].append(photo)
+
             if prev_day != day:
                 # skip new line at next day
                 prev_day = day
@@ -85,11 +93,31 @@ def main():
             proper_in_day += 1
 
     print("Photos loaded:", len(photos))
-    sys.exit(1)
 
+    # first, replace photo marks by days
+    for day in photos_by_day:
+        day_photos = photos_by_day[day]
+        photo_block = ""
+        for photo in day_photos:
+            photo_id = "{}-{}".format(day, photo["in_day"])
+            md_line = (
+                '<a name="{photo_id}"></a>\n'
+                '![](images/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                '<p style="text-align: center">{photo_id}. {description}</p>\n\n'
+            ).format(
+                photo_id=photo_id,
+                image_name=photo["image_name"],
+                description=photo["description"],
+            )
+            photo_block += md_line
 
+        print("Replacing block in day", day)
+        new_report_text = _flush_block(day, photo_block, report_text)
 
+        assert new_report_text != report_text  # check replacement is really done
+        report_text = new_report_text
 
+    sys.exit(0)
 
     with open(_PHOTOS_DESC_NAME, encoding='utf-8') as f:
         first = True
