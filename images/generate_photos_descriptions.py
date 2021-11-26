@@ -13,7 +13,7 @@ def _flush_block(day, photo_block, report_text):
     begin = '<a name="photo_{}"></a>'.format(day)
     end = '<a name="photo_end_{}"></a>'.format(day)
     marker = begin + r'.*?' + end
-    print(marker)
+    # print(marker)
     return re.sub(marker, begin + '\n' + photo_block + end, report_text, flags=re.DOTALL)
 
 
@@ -24,11 +24,54 @@ def _read_file(file_name):
     return text
 
 
+_TEST_TEXT = (
+    """GPS), примеченном в походе 2019 года. От Ворошиловских кошей до места ночевки дошли за 1 час 7 минут ЧХВ.
+
+<a name="photo_1"></a>
+<a name="1-1"></a>
+![](images/DSCF3954.jpg "Фото 1-1. Начало маршрута у погранзаставы Хурзук")
+<p style="text-align: center">1-1. Начало маршрута у погранзаставы Хурзук</p>
+
+<a name="1-2"></a>
+![](images/DSCF3984.jpg "Фото 1-2. Характер дороги в д.р. Кубань")
+<p style="text-align: center">1-2. Характер дороги в д.р. Кубань</p>
+
+<a name="1-3"></a>
+![](images/DSCF3966.jpg "Фото 1-3. Каньон р. Кубань")
+<p style="text-align: center">1-3. Каньон р. Кубань</p>
+
+<a name="1-4"></a>
+![](images/DSCF3994.jpg "Фото 1-4. Характер дороги в д.р. Кубань")
+<p style="text-align: center">1-4. Характер дороги в д.р. Кубань</p>
+
+<a name="1-5"></a>
+![](images/DSCF4032.jpg "Фото 1-5. Мост через р. Акбаши и место обеда")
+<p style="text-align: center">1-5. Мост через р. Акбаши и место обеда</p>
+
+<a name="1-6"></a>
+![](images/DSCF4155-Pano.jpg "Фото 1-6. Место стоянки в д.р. Уллу-Езень")
+<p style="text-align: center">1-6. Место стоянки в д.р. Уллу-Езень</p>
+
+<a name="photo_end_1"></a>
+
+### День 2. 20 августа 2021 года
+*м.н. – д.р. Уллу-Езень - лед. Хасанкой-Сюрюлген - пер. Кичкинекол В. (Сварщиков) (1А) – д. притока р. Кичкинекол*""")
+
+
 def main():
+    replace_result = _flush_block("1", "REPLACEMENT", _TEST_TEXT)
+    assert replace_result != _TEST_TEXT
+
     source_report_text = _read_file(_REPORT_NAME)
     assert source_report_text
 
+    # regex test
+    assert _TEST_TEXT in source_report_text
+
     report_text = source_report_text
+    # report_text =  _TEST_TEXT
+    report_text = report_text.replace('\r', '')
+    # report_text = report_text.replace('\n', '__WRAP__')
 
     photos = {}
     photos_by_day = {}
@@ -101,9 +144,9 @@ def main():
         for photo in day_photos:
             photo_id = "{}-{}".format(day, photo["in_day"])
             md_line = (
-                '<a name="{photo_id}"></a>\n'
+                '<a name="ph_{photo_id}"></a>\n'
                 '![](images/{image_name}.jpg "Фото {photo_id}. {description}")\n'
-                '<p style="text-align: center">{photo_id}. {description}</p>\n\n'
+                '<p style="text-align: center;">{photo_id}. {description}</p>\n\n'
             ).format(
                 photo_id=photo_id,
                 image_name=photo["image_name"],
@@ -114,8 +157,21 @@ def main():
         print("Replacing block in day", day)
         new_report_text = _flush_block(day, photo_block, report_text)
 
+        # print(new_report_text)
+        # print("OLD:")
+        # print(report_text)
         assert new_report_text != report_text  # check replacement is really done
         report_text = new_report_text
+
+    for image_name in photos:
+        photo = photos[image_name]
+        photo_id = "{}-{}".format(day, photo["in_day"])
+        print("Replacing ", image_name)
+        new_report_text = report_text.replace(
+            "PHOTO:{}".format(image_name),
+            "[Фото {photo_id}](#ph_{photo_id})".format(photo_id=photo_id),
+        )
+        assert new_report_text != report_text
 
     sys.exit(0)
 
