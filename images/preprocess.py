@@ -67,6 +67,18 @@ def main():
     # regex test
     assert _TEST_TEXT in source_report_text
 
+    # fix times in tables
+    source_lines = source_report_text.split('\n')
+    fixed_source_lines = []
+    for line in source_lines:
+        if '|' in line:
+            line = re.sub(r'([0-9])ч ([0-9]+)м', r'\1:\2', line)
+        fixed_source_lines.append(line)
+    source_report_text = '\n'.join(fixed_source_lines)
+    # write output
+    with open(_REPORT_NAME, 'w', encoding='utf-8') as f:
+        f.write(source_report_text)
+
     report_text = source_report_text
     # report_text =  _TEST_TEXT
     report_text = report_text.replace('\r', '')
