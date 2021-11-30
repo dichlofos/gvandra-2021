@@ -82,6 +82,8 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 
 ## 1.5 Обзорная карта района
 
+![](images/map_v.png "Обзорная карта маршрута")
+
 ## 1.6 Высотный профиль маршрута
 
 ![](images/altitude_profile.jpg "Высотный профиль маршрута")
