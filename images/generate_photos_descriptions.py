@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import re
-import sys
 
 
 _PHOTOS_DESC_NAME = "images.tsv"
@@ -145,7 +144,7 @@ def main():
             photo_id = "{}-{}".format(day, photo["in_day"])
             md_line = (
                 '<a name="ph_{photo_id}"></a>\n'
-                '![](images/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                '![](images/reduced/{image_name}.jpg "Фото {photo_id}. {description}")\n'
                 '<p style="text-align: center;">{photo_id}. {description}</p>\n\n'
             ).format(
                 photo_id=photo_id,
