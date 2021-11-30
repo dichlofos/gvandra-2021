@@ -114,6 +114,7 @@ def main():
 
             photo_id = cols[0]
             day, in_day_id = photo_id.split('-')
+
             image_name = cols[1].replace(' ', '')
             # author = cols[2]
             # todo = cols[3]
@@ -122,7 +123,15 @@ def main():
                 # cut dots
                 description = description[:-1]
 
+            if prev_day != day:
+                # skip new line at next day
+                prev_day = day
+                proper_in_day = 1
+                print()
+
             assert proper_in_day is not None and proper_in_day > 0 and proper_in_day < 30
+
+            print('{:3}   {:3}   {:30}   {}'.format(day, proper_in_day, image_name, description))
 
             photo = {
                 "day": day,
@@ -137,13 +146,11 @@ def main():
 
             photos_by_day[day].append(photo)
 
-            if prev_day != day:
-                # skip new line at next day
-                prev_day = day
-                proper_in_day = 1
-                print()
-
-            print('{:3}   {:3}   {:30}   {}'.format(day, proper_in_day, image_name, description))
+            """
+            if day == "12":
+                import json
+                print(json.dumps(photos_by_day[day], ensure_ascii=False, indent=4))
+            """
 
             if str(proper_in_day) != in_day_id:
                 # print("Inconsistent numbering at", photo_id)
@@ -169,6 +176,7 @@ def main():
                 image_name=photo["image_name"],
                 description=photo["description"],
             )
+            print(md_line)
             photo_block += md_line
 
         print("Replacing block in day", day)
