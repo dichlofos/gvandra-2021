@@ -165,6 +165,7 @@ def main():
 
     for image_name in photos:
         photo = photos[image_name]
+        day = photo["day"]
         photo_id = "{}-{}".format(day, photo["in_day"])
         print("Replacing ", image_name)
         new_report_text = report_text.replace(
