@@ -111,19 +111,7 @@ def _load_photos():
 
             if day not in photos_by_day:
                 photos_by_day[day] = []
-
             photos_by_day[day].append(photo)
-
-            """
-            if day == "12":
-                import json
-                print(json.dumps(photos_by_day[day], ensure_ascii=False, indent=4))
-            """
-
-            if str(proper_in_day) != in_day_id:
-                # print("Inconsistent numbering at", photo_id)
-                # sys.exit(1)
-                pass
 
             proper_in_day += 1
 
@@ -143,7 +131,7 @@ def _replace_photo_blocks(photos_by_day, report_text):
             photo_id = "{}-{}".format(day, photo["in_day"])
             photo_link = "sample_1600/{image_name}.jpg".format(image_name=image_name)
             print("LINK ", photo_link)
-            assert os.path.exists(photo_link)
+            assert os.path.exists(photo_link), photo_link + " does not exist"
 
             md_line = (
                 '<a name="ph_{photo_id}"></a>\n'
@@ -162,7 +150,8 @@ def _replace_photo_blocks(photos_by_day, report_text):
 
         assert new_report_text != report_text  # check replacement is really done
         report_text = new_report_text
-        return report_text
+
+    return report_text
 
 
 def _replace_photo_links(photos, report_text):
