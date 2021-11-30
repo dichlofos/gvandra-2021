@@ -122,7 +122,7 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 
 ## 1.9 Ссылки на материалы отчета
 
-- Мастер-версия отчёта для чтения: https://github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md (перегенерируется с помощью скрипта `images/generate_photos_descriptions.py`)
+- Мастер-версия отчёта для чтения: https://github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md (перегенерируется с помощью скрипта `images/preprocess.py`)
 - Исходный код отчёта: https://github.com/dichlofos/gvandra-2021/blob/master/source_report_gvandra_2021.md (туда вносятся все исправления и дополнения, в том числе после отправки отчёта в МКК)
 - Репозиторий на GitHub с материалами отчёта https://github.com/dichlofos/gvandra-2021/ (треки, фото, отчёты, использованные при подготовке, карты)
 

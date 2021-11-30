@@ -122,7 +122,7 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 
 ## 1.9 Ссылки на материалы отчета
 
-- Мастер-версия отчёта для чтения: https://github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md (перегенерируется с помощью скрипта `images/generate_photos_descriptions.py`)
+- Мастер-версия отчёта для чтения: https://github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md (перегенерируется с помощью скрипта `images/preprocess.py`)
 - Исходный код отчёта: https://github.com/dichlofos/gvandra-2021/blob/master/source_report_gvandra_2021.md (туда вносятся все исправления и дополнения, в том числе после отправки отчёта в МКК)
 - Репозиторий на GitHub с материалами отчёта https://github.com/dichlofos/gvandra-2021/ (треки, фото, отчёты, использованные при подготовке, карты)
 
@@ -1425,8 +1425,8 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 
 <a name="photo_14"></a>
 <a name="ph_14-1"></a>
-![](images/sample_1600/DSCF7486-Pano.jpg "Фото 14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено местоночевки 31.08")
-<p style="text-align: center;">14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено местоночевки 31.08</p>
+![](images/sample_1600/DSCF7486-Pano.jpg "Фото 14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08")
+<p style="text-align: center;">14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08</p>
 
 <a name="ph_14-2"></a>
 ![](images/sample_1600/DSCF7463-Pano.jpg "Фото 14-2. Подъем от оз. 2574 к оз. 2910")
