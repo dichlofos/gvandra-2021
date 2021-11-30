@@ -72,14 +72,18 @@ def main():
     fixed_source_lines = []
     for line in source_lines:
         if '|' in line:
-            line = re.sub(r'([0-9])ч ([0-9]+)м', r'\1:\2', line)
+            new_line = re.sub(r'([0-9]+)ч ([0-9]+)м', r'\1:\2', line)
+            if line != new_line:
+                print("Fixed times in:", new_line)
+                line = new_line
         fixed_source_lines.append(line)
     new_source_report_text = '\n'.join(fixed_source_lines)
     if source_report_text != new_source_report_text:
         # write fixed source
         print("Source fixed, writing output to", _REPORT_NAME)
         with open(_REPORT_NAME, 'w', encoding='utf-8') as f:
-            f.write(source_report_text)
+            f.write(new_source_report_text)
+        source_report_text = new_source_report_text
 
     report_text = source_report_text
     # report_text =  _TEST_TEXT
