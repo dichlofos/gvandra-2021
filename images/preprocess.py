@@ -133,22 +133,24 @@ def _replace_photo_blocks(photos_by_day, report_text):
             assert os.path.exists(photo_link), photo_link + " does not exist"
 
             md_line = (
-                '<a name="ph_{photo_id}"></a>\n'
-                '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
-                '<p style="text-align: center;">{photo_id}. {description}</p>\n\n'
+                '<div><a name="ph_{photo_id}"></a>\n'
+                # '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                '<img src="images/sample_1600/{image_name}.jpg" alt="Фото {photo_id}. {description}" />\n'
+                '<p style="text-align: center">{photo_id}. {description}</p></div>\n\n'
             ).format(
                 photo_id=photo_id,
                 image_name=image_name,
                 description=photo["description"],
             )
-            print(md_line)
+            # print(md_line)
             photo_block += md_line
 
         print("Replacing block in day", day)
-        print(photo_block)
+        # print(photo_block)
         new_report_text = _flush_block(day, photo_block, report_text)
 
-        assert new_report_text != report_text  # check replacement is really done
+        # either replacement is done or text is already weill-formed
+        assert new_report_text != report_text or photo_block in report_text
         report_text = new_report_text
 
     return report_text
@@ -178,7 +180,7 @@ def main():
     assert source_report_text
 
     # regex test
-    assert _TEST_TEXT in source_report_text
+    # assert _TEST_TEXT in source_report_text
 
     photos, photos_by_day = _load_photos()
 
@@ -195,14 +197,12 @@ def main():
                 print("Fixed times in:", new_line)
                 line = new_line
         fixed_source_lines.append(line)
-    new_source_report_text = '\n'.join(fixed_source_lines)
+    source_report_text = '\n'.join(fixed_source_lines)
 
-    if source_report_text != new_source_report_text:
-        # write fixed source
-        print("Source fixed, writing output to", _REPORT_NAME)
-        with open(_REPORT_NAME, 'w', encoding='utf-8') as f:
-            f.write(new_source_report_text)
-        source_report_text = new_source_report_text
+    # write fixed source
+    print("Source fixed, writing output to", _REPORT_NAME)
+    with open(_REPORT_NAME, 'w', encoding='utf-8') as f:
+        f.write(source_report_text)
 
     report_text = source_report_text
     # report_text =  _TEST_TEXT
