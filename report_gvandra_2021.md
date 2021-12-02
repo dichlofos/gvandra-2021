@@ -33,7 +33,7 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 (Зеленцов Д.Ю.)
 </div>
 
-<div style="padding-top: 100pt">&nbsp;</div>
+<div style="padding-top: 130pt">&nbsp;</div>
 
 <p style="text-align: center; font-size: 14pt">Москва, 2021 г.</p>
 
@@ -322,29 +322,29 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Продолжаем движение на запад по правому берегу р. Кубань через сырые пастбищные луга. Через 50 минут переходим по мосту р. Уллу-Кам, проходим на ЮВ выше по течению р. Уллу-Езень и через 17 минут, в 18.22, встаем на стоянку на лугу ([Фото 1-6](#ph_1-6)) (`N 43.29263 E 42.35186` GPS). Воду набирали в роднике (`N 43.29514 E 42.35457` GPS), примеченном в походе 2019 года. От Ворошиловских кошей до места ночевки дошли за 1 час 7 минут ЧХВ.
 
 <a name="photo_1"></a>
-<a name="ph_1-1"></a>
-![](images/sample_1600/DSCF3954.jpg "Фото 1-1. Начало маршрута у погранзаставы Хурзук")
-<p style="text-align: center;">1-1. Начало маршрута у погранзаставы Хурзук</p>
+<div><a name="ph_1-1"></a>
+<img src="images/sample_1600/DSCF3954.jpg" alt="Фото 1-1. Начало маршрута у погранзаставы Хурзук" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-1. Начало маршрута у погранзаставы Хурзук</p></div>
 
-<a name="ph_1-2"></a>
-![](images/sample_1600/DSCF3984.jpg "Фото 1-2. Характер дороги в д.р. Кубань")
-<p style="text-align: center;">1-2. Характер дороги в д.р. Кубань</p>
+<div><a name="ph_1-2"></a>
+<img src="images/sample_1600/DSCF3984.jpg" alt="Фото 1-2. Характер дороги в д.р. Кубань" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-2. Характер дороги в д.р. Кубань</p></div>
 
-<a name="ph_1-3"></a>
-![](images/sample_1600/DSCF3966.jpg "Фото 1-3. Каньон р. Кубань")
-<p style="text-align: center;">1-3. Каньон р. Кубань</p>
+<div><a name="ph_1-3"></a>
+<img src="images/sample_1600/DSCF3966.jpg" alt="Фото 1-3. Каньон р. Кубань" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-3. Каньон р. Кубань</p></div>
 
-<a name="ph_1-4"></a>
-![](images/sample_1600/DSCF3994.jpg "Фото 1-4. Характер дороги в д.р. Кубань")
-<p style="text-align: center;">1-4. Характер дороги в д.р. Кубань</p>
+<div><a name="ph_1-4"></a>
+<img src="images/sample_1600/DSCF3994.jpg" alt="Фото 1-4. Характер дороги в д.р. Кубань" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-4. Характер дороги в д.р. Кубань</p></div>
 
-<a name="ph_1-5"></a>
-![](images/sample_1600/DSCF4032.jpg "Фото 1-5. Мост через р. Акбаши и место обеда")
-<p style="text-align: center;">1-5. Мост через р. Акбаши и место обеда</p>
+<div><a name="ph_1-5"></a>
+<img src="images/sample_1600/DSCF4032.jpg" alt="Фото 1-5. Мост через р. Акбаши и место обеда" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-5. Мост через р. Акбаши и место обеда</p></div>
 
-<a name="ph_1-6"></a>
-![](images/sample_1600/DSCF4155-Pano.jpg "Фото 1-6. Место стоянки в д.р. Уллу-Езень")
-<p style="text-align: center;">1-6. Место стоянки в д.р. Уллу-Езень</p>
+<div><a name="ph_1-6"></a>
+<img src="images/sample_1600/DSCF4155-Pano.jpg" alt="Фото 1-6. Место стоянки в д.р. Уллу-Езень" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 1-6. Место стоянки в д.р. Уллу-Езень</p></div>
 
 <a name="photo_end_1"></a>
 
@@ -387,65 +387,65 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 
 
 <a name="photo_2"></a>
-<a name="ph_2-1"></a>
-![](images/sample_1600/DSCF4160.jpg "Фото 2-1. Мост через р. Уллу-Езень")
-<p style="text-align: center;">2-1. Мост через р. Уллу-Езень</p>
+<div><a name="ph_2-1"></a>
+<img src="images/sample_1600/DSCF4160.jpg" alt="Фото 2-1. Мост через р. Уллу-Езень" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-1. Мост через р. Уллу-Езень</p></div>
 
-<a name="ph_2-2"></a>
-![](images/sample_1600/DSCF4167.jpg "Фото 2-2. Путь через д.р. Уллу-Езень")
-<p style="text-align: center;">2-2. Путь через д.р. Уллу-Езень</p>
+<div><a name="ph_2-2"></a>
+<img src="images/sample_1600/DSCF4167.jpg" alt="Фото 2-2. Путь через д.р. Уллу-Езень" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-2. Путь через д.р. Уллу-Езень</p></div>
 
-<a name="ph_2-3"></a>
-![](images/sample_1600/DSCF4176.jpg "Фото 2-3. Характер тропы в д.р. Уллу-Езень")
-<p style="text-align: center;">2-3. Характер тропы в д.р. Уллу-Езень</p>
+<div><a name="ph_2-3"></a>
+<img src="images/sample_1600/DSCF4176.jpg" alt="Фото 2-3. Характер тропы в д.р. Уллу-Езень" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-3. Характер тропы в д.р. Уллу-Езень</p></div>
 
-<a name="ph_2-4"></a>
-![](images/sample_1600/DSCF4179.jpg "Фото 2-4. Начало подъема к пер. Кичкинекол Восточный")
-<p style="text-align: center;">2-4. Начало подъема к пер. Кичкинекол Восточный</p>
+<div><a name="ph_2-4"></a>
+<img src="images/sample_1600/DSCF4179.jpg" alt="Фото 2-4. Начало подъема к пер. Кичкинекол Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-4. Начало подъема к пер. Кичкинекол Восточный</p></div>
 
-<a name="ph_2-5"></a>
-![](images/sample_1600/DSCF4187.jpg "Фото 2-5. Характер подъема на первую ступень долины левого притока р. Уллу-Езень")
-<p style="text-align: center;">2-5. Характер подъема на первую ступень долины левого притока р. Уллу-Езень</p>
+<div><a name="ph_2-5"></a>
+<img src="images/sample_1600/DSCF4187.jpg" alt="Фото 2-5. Характер подъема на первую ступень долины левого притока р. Уллу-Езень" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-5. Характер подъема на первую ступень долины левого притока р. Уллу-Езень</p></div>
 
-<a name="ph_2-6"></a>
-![](images/sample_1600/DSCF4223-Pano.jpg "Фото 2-6. Озеро на первой ступени долины левого притока р. Уллу-Езень и путь дальнейшего подъема")
-<p style="text-align: center;">2-6. Озеро на первой ступени долины левого притока р. Уллу-Езень и путь дальнейшего подъема</p>
+<div><a name="ph_2-6"></a>
+<img src="images/sample_1600/DSCF4223-Pano.jpg" alt="Фото 2-6. Озеро на первой ступени долины левого притока р. Уллу-Езень и путь дальнейшего подъема" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-6. Озеро на первой ступени долины левого притока р. Уллу-Езень и путь дальнейшего подъема</p></div>
 
-<a name="ph_2-7"></a>
-![](images/sample_1600/DSCF4251-Pano.jpg "Фото 2-7. Подъем к леднику Хасанкой-Сюрюлген из д.р. Уллу-Езень под пер. Кичкинекол Восточный")
-<p style="text-align: center;">2-7. Подъем к леднику Хасанкой-Сюрюлген из д.р. Уллу-Езень под пер. Кичкинекол Восточный</p>
+<div><a name="ph_2-7"></a>
+<img src="images/sample_1600/DSCF4251-Pano.jpg" alt="Фото 2-7. Подъем к леднику Хасанкой-Сюрюлген из д.р. Уллу-Езень под пер. Кичкинекол Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-7. Подъем к леднику Хасанкой-Сюрюлген из д.р. Уллу-Езень под пер. Кичкинекол Восточный</p></div>
 
-<a name="ph_2-8"></a>
-![](images/sample_1600/DSCF4273.jpg "Фото 2-8. Характер скал при подъеме к леднику Хасанкой-Сюрюлген")
-<p style="text-align: center;">2-8. Характер скал при подъеме к леднику Хасанкой-Сюрюлген</p>
+<div><a name="ph_2-8"></a>
+<img src="images/sample_1600/DSCF4273.jpg" alt="Фото 2-8. Характер скал при подъеме к леднику Хасанкой-Сюрюлген" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-8. Характер скал при подъеме к леднику Хасанкой-Сюрюлген</p></div>
 
-<a name="ph_2-9"></a>
-![](images/sample_1600/DSCF4283.jpg "Фото 2-9. Озеро 3220 и ледник Хасанкой-Сюрюлген")
-<p style="text-align: center;">2-9. Озеро 3220 и ледник Хасанкой-Сюрюлген</p>
+<div><a name="ph_2-9"></a>
+<img src="images/sample_1600/DSCF4283.jpg" alt="Фото 2-9. Озеро 3220 и ледник Хасанкой-Сюрюлген" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-9. Озеро 3220 и ледник Хасанкой-Сюрюлген</p></div>
 
-<a name="ph_2-10"></a>
-![](images/sample_1600/DSCF4291-Pano.jpg "Фото 2-10. Подъем на пер. Кичкинекол Восточный с СЗ")
-<p style="text-align: center;">2-10. Подъем на пер. Кичкинекол Восточный с СЗ</p>
+<div><a name="ph_2-10"></a>
+<img src="images/sample_1600/DSCF4291-Pano.jpg" alt="Фото 2-10. Подъем на пер. Кичкинекол Восточный с СЗ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-10. Подъем на пер. Кичкинекол Восточный с СЗ</p></div>
 
-<a name="ph_2-11"></a>
-![](images/sample_1600/DSCF4315-Pano.jpg "Фото 2-11. Седловина пер. Кичкинекол Восточный. Путь спуска и подъема")
-<p style="text-align: center;">2-11. Седловина пер. Кичкинекол Восточный. Путь спуска и подъема</p>
+<div><a name="ph_2-11"></a>
+<img src="images/sample_1600/DSCF4315-Pano.jpg" alt="Фото 2-11. Седловина пер. Кичкинекол Восточный. Путь спуска и подъема" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-11. Седловина пер. Кичкинекол Восточный. Путь спуска и подъема</p></div>
 
-<a name="ph_2-12"></a>
-![](images/sample_1600/DSCF4328.jpg "Фото 2-12. Характер спуска с пер. Кичкинекол Восточный в Ю направлении")
-<p style="text-align: center;">2-12. Характер спуска с пер. Кичкинекол Восточный в Ю направлении</p>
+<div><a name="ph_2-12"></a>
+<img src="images/sample_1600/DSCF4328.jpg" alt="Фото 2-12. Характер спуска с пер. Кичкинекол Восточный в Ю направлении" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-12. Характер спуска с пер. Кичкинекол Восточный в Ю направлении</p></div>
 
-<a name="ph_2-13"></a>
-![](images/sample_1600/DSCF4330-Pano.jpg "Фото 2-13. Спуск с пер. Кичкинекол Восточный на Ю")
-<p style="text-align: center;">2-13. Спуск с пер. Кичкинекол Восточный на Ю</p>
+<div><a name="ph_2-13"></a>
+<img src="images/sample_1600/DSCF4330-Pano.jpg" alt="Фото 2-13. Спуск с пер. Кичкинекол Восточный на Ю" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-13. Спуск с пер. Кичкинекол Восточный на Ю</p></div>
 
-<a name="ph_2-14"></a>
-![](images/sample_1600/DSCF4346-Pano.jpg "Фото 2-14. Спуск из-под пер. Кичкинекол Восточный в д.р. Восточный Кичкинекол")
-<p style="text-align: center;">2-14. Спуск из-под пер. Кичкинекол Восточный в д.р. Восточный Кичкинекол</p>
+<div><a name="ph_2-14"></a>
+<img src="images/sample_1600/DSCF4346-Pano.jpg" alt="Фото 2-14. Спуск из-под пер. Кичкинекол Восточный в д.р. Восточный Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-14. Спуск из-под пер. Кичкинекол Восточный в д.р. Восточный Кичкинекол</p></div>
 
-<a name="ph_2-15"></a>
-![](images/sample_1600/DSCF4392.jpg "Фото 2-15. Место ночевки под пер. Кичкинекол Восточный")
-<p style="text-align: center;">2-15. Место ночевки под пер. Кичкинекол Восточный</p>
+<div><a name="ph_2-15"></a>
+<img src="images/sample_1600/DSCF4392.jpg" alt="Фото 2-15. Место ночевки под пер. Кичкинекол Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 2-15. Место ночевки под пер. Кичкинекол Восточный</p></div>
 
 <a name="photo_end_2"></a>
 
@@ -489,61 +489,61 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Далее за 5 минут спускаемся в С направлении в большую мульду за перевалом и останавливаемся на обед ([Фото 3-12](#ph_3-12)). После обеда выходим на открытый пологий ледник и пересекаем его общим направлением на ЮЗ. Рюкзак приболевшей участницы разгрузили по максимуму, вещи распределили между остальными участниками. Трещин немного, обходим их или перешагиваем. Через 45 минут выходим с ледника южнее большого скального выступа ([Фото 3-13](#ph_3-13)). Продолжаем спуск по средней осыпи еще 15 минут и в 17:04 останавливаемся на ночевку на площадках среди осыпи ([Фото 3-14](#ph_3-14)) (`N 43.22551 E 42.29779` GPS). Площадок мало, но на 2 палатки нашлось. Пришлось доработать их до ровного состояния. Стоит отметить, что ниже до самой долины р. Черенкол на пути нашего спуска хороших мест под палатки мы не видели, поэтому считаем выбранное место ночевки оптимальным, несмотря на то, что для улучшения состояния участницы с горной болезнью полезно было бы спуститься ниже. Воду берем из ручья, текущего под камнями. Всего на спуск с перевала до ночевок потратили 1 час 3 минуты.
 
 <a name="photo_3"></a>
-<a name="ph_3-1"></a>
-![](images/sample_1600/DSCF4396.jpg "Фото 3-1. Спуск в д.р. Восточный Кичкинекол")
-<p style="text-align: center;">3-1. Спуск в д.р. Восточный Кичкинекол</p>
+<div><a name="ph_3-1"></a>
+<img src="images/sample_1600/DSCF4396.jpg" alt="Фото 3-1. Спуск в д.р. Восточный Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-1. Спуск в д.р. Восточный Кичкинекол</p></div>
 
-<a name="ph_3-2"></a>
-![](images/sample_1600/DSCF4411.jpg "Фото 3-2. Продолжение спуска в д.р. Восточный Кичкинекол. Виден язык ледника Кичкинекол")
-<p style="text-align: center;">3-2. Продолжение спуска в д.р. Восточный Кичкинекол. Виден язык ледника Кичкинекол</p>
+<div><a name="ph_3-2"></a>
+<img src="images/sample_1600/DSCF4411.jpg" alt="Фото 3-2. Продолжение спуска в д.р. Восточный Кичкинекол. Виден язык ледника Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-2. Продолжение спуска в д.р. Восточный Кичкинекол. Виден язык ледника Кичкинекол</p></div>
 
-<a name="ph_3-3"></a>
-![](images/sample_1600/DSCF4450.jpg "Фото 3-3. Начало подъема на лед. Кичкинекол и пер. АКТ из д.р. Восточный Кичкинекол")
-<p style="text-align: center;">3-3. Начало подъема на лед. Кичкинекол и пер. АКТ из д.р. Восточный Кичкинекол</p>
+<div><a name="ph_3-3"></a>
+<img src="images/sample_1600/DSCF4450.jpg" alt="Фото 3-3. Начало подъема на лед. Кичкинекол и пер. АКТ из д.р. Восточный Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-3. Начало подъема на лед. Кичкинекол и пер. АКТ из д.р. Восточный Кичкинекол</p></div>
 
-<a name="ph_3-4"></a>
-![](images/sample_1600/DSCF4456.jpg "Фото 3-4. Брод истока р. Восточный Кичкинекол")
-<p style="text-align: center;">3-4. Брод истока р. Восточный Кичкинекол</p>
+<div><a name="ph_3-4"></a>
+<img src="images/sample_1600/DSCF4456.jpg" alt="Фото 3-4. Брод истока р. Восточный Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-4. Брод истока р. Восточный Кичкинекол</p></div>
 
-<a name="ph_3-5"></a>
-![](images/sample_1600/DSCF4463-Pano.jpg "Фото 3-5. Зачехленная часть ледника Кичкинекол")
-<p style="text-align: center;">3-5. Зачехленная часть ледника Кичкинекол</p>
+<div><a name="ph_3-5"></a>
+<img src="images/sample_1600/DSCF4463-Pano.jpg" alt="Фото 3-5. Зачехленная часть ледника Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-5. Зачехленная часть ледника Кичкинекол</p></div>
 
-<a name="ph_3-6"></a>
-![](images/sample_1600/DSCF4481-Pano.jpg "Фото 3-6. Путь подъема на пер. АКТ")
-<p style="text-align: center;">3-6. Путь подъема на пер. АКТ</p>
+<div><a name="ph_3-6"></a>
+<img src="images/sample_1600/DSCF4481-Pano.jpg" alt="Фото 3-6. Путь подъема на пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-6. Путь подъема на пер. АКТ</p></div>
 
-<a name="ph_3-7"></a>
-![](images/sample_1600/DSCF4496.jpg "Фото 3-7. Подъем на бараньи лбы под пер. АКТ")
-<p style="text-align: center;">3-7. Подъем на бараньи лбы под пер. АКТ</p>
+<div><a name="ph_3-7"></a>
+<img src="images/sample_1600/DSCF4496.jpg" alt="Фото 3-7. Подъем на бараньи лбы под пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-7. Подъем на бараньи лбы под пер. АКТ</p></div>
 
-<a name="ph_3-8"></a>
-![](images/sample_1600/DSCF4574.jpg "Фото 3-8. Трещины на леднике под пер. АКТ")
-<p style="text-align: center;">3-8. Трещины на леднике под пер. АКТ</p>
+<div><a name="ph_3-8"></a>
+<img src="images/sample_1600/DSCF4574.jpg" alt="Фото 3-8. Трещины на леднике под пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-8. Трещины на леднике под пер. АКТ</p></div>
 
-<a name="ph_3-9"></a>
-![](images/sample_1600/DSCF4553-Pano.jpg "Фото 3-9. Перевальный взлет пер. АКТ")
-<p style="text-align: center;">3-9. Перевальный взлет пер. АКТ</p>
+<div><a name="ph_3-9"></a>
+<img src="images/sample_1600/DSCF4553-Pano.jpg" alt="Фото 3-9. Перевальный взлет пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-9. Перевальный взлет пер. АКТ</p></div>
 
-<a name="ph_3-10"></a>
-![](images/sample_1600/DSCF4595.jpg "Фото 3-10. Харктер подъема на перевальный взлет пер. АКТ")
-<p style="text-align: center;">3-10. Харктер подъема на перевальный взлет пер. АКТ</p>
+<div><a name="ph_3-10"></a>
+<img src="images/sample_1600/DSCF4595.jpg" alt="Фото 3-10. Харктер подъема на перевальный взлет пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-10. Харктер подъема на перевальный взлет пер. АКТ</p></div>
 
-<a name="ph_3-11"></a>
-![](images/sample_1600/DSCF4599.jpg "Фото 3-11. Седловина пер. АКТ")
-<p style="text-align: center;">3-11. Седловина пер. АКТ</p>
+<div><a name="ph_3-11"></a>
+<img src="images/sample_1600/DSCF4599.jpg" alt="Фото 3-11. Седловина пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-11. Седловина пер. АКТ</p></div>
 
-<a name="ph_3-12"></a>
-![](images/sample_1600/DSCF4605-Pano.jpg "Фото 3-12. Место обеда под пер. АКТ")
-<p style="text-align: center;">3-12. Место обеда под пер. АКТ</p>
+<div><a name="ph_3-12"></a>
+<img src="images/sample_1600/DSCF4605-Pano.jpg" alt="Фото 3-12. Место обеда под пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-12. Место обеда под пер. АКТ</p></div>
 
-<a name="ph_3-13"></a>
-![](images/sample_1600/DSCF4633.jpg "Фото 3-13. Путь через ледник под пер. АКТ")
-<p style="text-align: center;">3-13. Путь через ледник под пер. АКТ</p>
+<div><a name="ph_3-13"></a>
+<img src="images/sample_1600/DSCF4633.jpg" alt="Фото 3-13. Путь через ледник под пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-13. Путь через ледник под пер. АКТ</p></div>
 
-<a name="ph_3-14"></a>
-![](images/sample_1600/DSCF4712.jpg "Фото 3-14. Стоянка на площадках под ледником на пер. АКТ")
-<p style="text-align: center;">3-14. Стоянка на площадках под ледником на пер. АКТ</p>
+<div><a name="ph_3-14"></a>
+<img src="images/sample_1600/DSCF4712.jpg" alt="Фото 3-14. Стоянка на площадках под ледником на пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 3-14. Стоянка на площадках под ледником на пер. АКТ</p></div>
 
 <a name="photo_end_3"></a>
 
@@ -606,33 +606,33 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 После обеда начинаем подъем в направлении пер. Подарок. Сначала поднимаемся на травянисто-каменистый склон левого берега р. Черенкол в ВСВ направлении, уклон 20-25 градусов ([Фото 4-6](#ph_4-6)). Переходим по камням ручей и поднимаемся в С направлении до плоских травянистых площадок. Это популярное место ночевки перед подъемом на посещаемый перевал Техники безопасности (1Б). Останавливаемся здесь на ночевку ([Фото 4-7](#ph_4-7)) (`N 43.22888 E 42.27139` GPS) в 15.54. Подъем от реки Черенкол до места ночевки занял 1 час 14 минут ЧХВ.
 
 <a name="photo_4"></a>
-<a name="ph_4-1"></a>
-![](images/sample_1600/DSCF4729.jpg "Фото 4-1. Спуск по снежнику под пер. АКТ")
-<p style="text-align: center;">4-1. Спуск по снежнику под пер. АКТ</p>
+<div><a name="ph_4-1"></a>
+<img src="images/sample_1600/DSCF4729.jpg" alt="Фото 4-1. Спуск по снежнику под пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-1. Спуск по снежнику под пер. АКТ</p></div>
 
-<a name="ph_4-2"></a>
-![](images/sample_1600/DSCF4783.jpg "Фото 4-2. Характер спуска по осыпи в д.р Черенкол с пер. АКТ")
-<p style="text-align: center;">4-2. Характер спуска по осыпи в д.р Черенкол с пер. АКТ</p>
+<div><a name="ph_4-2"></a>
+<img src="images/sample_1600/DSCF4783.jpg" alt="Фото 4-2. Характер спуска по осыпи в д.р Черенкол с пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-2. Характер спуска по осыпи в д.р Черенкол с пер. АКТ</p></div>
 
-<a name="ph_4-3"></a>
-![](images/sample_1600/DSCF5297.jpg "Фото 4-3. Спуск с пер. АКТ")
-<p style="text-align: center;">4-3. Спуск с пер. АКТ</p>
+<div><a name="ph_4-3"></a>
+<img src="images/sample_1600/DSCF5297.jpg" alt="Фото 4-3. Спуск с пер. АКТ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-3. Спуск с пер. АКТ</p></div>
 
-<a name="ph_4-4"></a>
-![](images/sample_1600/DSCF4820.jpg "Фото 4-4. Брод правого истока р. Черенкол")
-<p style="text-align: center;">4-4. Брод правого истока р. Черенкол</p>
+<div><a name="ph_4-4"></a>
+<img src="images/sample_1600/DSCF4820.jpg" alt="Фото 4-4. Брод правого истока р. Черенкол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-4. Брод правого истока р. Черенкол</p></div>
 
-<a name="ph_4-5"></a>
-![](images/sample_1600/DSCF4834.jpg "Фото 4-5. Брод левого истока р. Черенкол")
-<p style="text-align: center;">4-5. Брод левого истока р. Черенкол</p>
+<div><a name="ph_4-5"></a>
+<img src="images/sample_1600/DSCF4834.jpg" alt="Фото 4-5. Брод левого истока р. Черенкол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-5. Брод левого истока р. Черенкол</p></div>
 
-<a name="ph_4-6"></a>
-![](images/sample_1600/DSCF4882.jpg "Фото 4-6. Характер подъема на левый борт долины р. Черенкол")
-<p style="text-align: center;">4-6. Характер подъема на левый борт долины р. Черенкол</p>
+<div><a name="ph_4-6"></a>
+<img src="images/sample_1600/DSCF4882.jpg" alt="Фото 4-6. Характер подъема на левый борт долины р. Черенкол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-6. Характер подъема на левый борт долины р. Черенкол</p></div>
 
-<a name="ph_4-7"></a>
-![](images/sample_1600/DSCF5018.jpg "Фото 4-7. Место ночевки под пер. Подарок и Техники безопасности")
-<p style="text-align: center;">4-7. Место ночевки под пер. Подарок и Техники безопасности</p>
+<div><a name="ph_4-7"></a>
+<img src="images/sample_1600/DSCF5018.jpg" alt="Фото 4-7. Место ночевки под пер. Подарок и Техники безопасности" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 4-7. Место ночевки под пер. Подарок и Техники безопасности</p></div>
 
 <a name="photo_end_4"></a>
 
@@ -656,53 +656,53 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Здесь надеваем кошки и выходим на ледник. В начале ледника расположена ледяная пещера ([Фото 5-8](#ph_5-8)), обходим ее с южной стороны сначала по льду, затем по скалам, затем опять выходим на лед. Сначала нужно преодолеть небольшой участок с крутизной около 30 градусов, проходим этот участок на передних зубьях кошек на три такта ([Фото 5-9](#ph_5-9)), затем лед выполаживается до 20 и менее градусов. Ледник открытый, трещин мало, перешагиваем или обходим их. Движемся в северной части ледника, но не подходя близко к скалам ([Фото 5-10](#ph_5-10)). Через 1 час 42 минуты подходим под перевал в 12.30 и останавливаемся на участке ледника, покрытым снегом, но не в зоне выката камней со скал (`N 43.23007 E 42.25045` GPS). Известно, что перевал Подарок камнеопасен и его следует проходить рано утром, поэтому на сегодня наш ходовой день закончен. Копаем в снегу площадки под палатки и кухню (Фото [Фото 5-11](#ph_5-11), [Фото 5-12](#ph_5-12)). Как только площадки были готовы, начался дождь с грозой.
 
 <a name="photo_5"></a>
-<a name="ph_5-1"></a>
-![](images/sample_1600/DSCF4975-Pano.jpg "Фото 5-1. Подъем от места ночевки")
-<p style="text-align: center;">5-1. Подъем от места ночевки</p>
+<div><a name="ph_5-1"></a>
+<img src="images/sample_1600/DSCF4975-Pano.jpg" alt="Фото 5-1. Подъем от места ночевки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-1. Подъем от места ночевки</p></div>
 
-<a name="ph_5-2"></a>
-![](images/sample_1600/DSCF5032.jpg "Фото 5-2. Спуск")
-<p style="text-align: center;">5-2. Спуск</p>
+<div><a name="ph_5-2"></a>
+<img src="images/sample_1600/DSCF5032.jpg" alt="Фото 5-2. Спуск" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-2. Спуск</p></div>
 
-<a name="ph_5-3"></a>
-![](images/sample_1600/DSCF5033.jpg "Фото 5-3. Характер участка подъема на пер. Подарок от озер до бараньих лбов")
-<p style="text-align: center;">5-3. Характер участка подъема на пер. Подарок от озер до бараньих лбов</p>
+<div><a name="ph_5-3"></a>
+<img src="images/sample_1600/DSCF5033.jpg" alt="Фото 5-3. Характер участка подъема на пер. Подарок от озер до бараньих лбов" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-3. Характер участка подъема на пер. Подарок от озер до бараньих лбов</p></div>
 
-<a name="ph_5-4"></a>
-![](images/sample_1600/DSCF5039.jpg "Фото 5-4. Характер участка подъема на пер. Подарок от озер до бараньих лбов")
-<p style="text-align: center;">5-4. Характер участка подъема на пер. Подарок от озер до бараньих лбов</p>
+<div><a name="ph_5-4"></a>
+<img src="images/sample_1600/DSCF5039.jpg" alt="Фото 5-4. Характер участка подъема на пер. Подарок от озер до бараньих лбов" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-4. Характер участка подъема на пер. Подарок от озер до бараньих лбов</p></div>
 
-<a name="ph_5-5"></a>
-![](images/sample_1600/DSCF5030-Pano.jpg "Фото 5-5. Общий вид подъема под ледник на пер. Подарок")
-<p style="text-align: center;">5-5. Общий вид подъема под ледник на пер. Подарок</p>
+<div><a name="ph_5-5"></a>
+<img src="images/sample_1600/DSCF5030-Pano.jpg" alt="Фото 5-5. Общий вид подъема под ледник на пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-5. Общий вид подъема под ледник на пер. Подарок</p></div>
 
-<a name="ph_5-6"></a>
-![](images/sample_1600/DSCF5056.jpg "Фото 5-6. Полка в бараньих лбах под ледником под пер. Подарок")
-<p style="text-align: center;">5-6. Полка в бараньих лбах под ледником под пер. Подарок</p>
+<div><a name="ph_5-6"></a>
+<img src="images/sample_1600/DSCF5056.jpg" alt="Фото 5-6. Полка в бараньих лбах под ледником под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-6. Полка в бараньих лбах под ледником под пер. Подарок</p></div>
 
-<a name="ph_5-7"></a>
-![](images/sample_1600/DSCF5064.jpg "Фото 5-7. Характер скал при подъеме к леднику под пер. Подарок")
-<p style="text-align: center;">5-7. Характер скал при подъеме к леднику под пер. Подарок</p>
+<div><a name="ph_5-7"></a>
+<img src="images/sample_1600/DSCF5064.jpg" alt="Фото 5-7. Характер скал при подъеме к леднику под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-7. Характер скал при подъеме к леднику под пер. Подарок</p></div>
 
-<a name="ph_5-8"></a>
-![](images/sample_1600/DSCF5070.jpg "Фото 5-8. Ледяная пещера в начале ледника под пер. Подарок")
-<p style="text-align: center;">5-8. Ледяная пещера в начале ледника под пер. Подарок</p>
+<div><a name="ph_5-8"></a>
+<img src="images/sample_1600/DSCF5070.jpg" alt="Фото 5-8. Ледяная пещера в начале ледника под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-8. Ледяная пещера в начале ледника под пер. Подарок</p></div>
 
-<a name="ph_5-9"></a>
-![](images/sample_1600/DSCF5088.jpg "Фото 5-9. Выход на ледник под пер. Подарок")
-<p style="text-align: center;">5-9. Выход на ледник под пер. Подарок</p>
+<div><a name="ph_5-9"></a>
+<img src="images/sample_1600/DSCF5088.jpg" alt="Фото 5-9. Выход на ледник под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-9. Выход на ледник под пер. Подарок</p></div>
 
-<a name="ph_5-10"></a>
-![](images/sample_1600/DSCF5144.jpg "Фото 5-10. Движение через ледник под пер. Подарок")
-<p style="text-align: center;">5-10. Движение через ледник под пер. Подарок</p>
+<div><a name="ph_5-10"></a>
+<img src="images/sample_1600/DSCF5144.jpg" alt="Фото 5-10. Движение через ледник под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-10. Движение через ледник под пер. Подарок</p></div>
 
-<a name="ph_5-11"></a>
-![](images/sample_1600/DSCF5157.jpg "Фото 5-11. Процесс выкапывания площадок под палатки")
-<p style="text-align: center;">5-11. Процесс выкапывания площадок под палатки</p>
+<div><a name="ph_5-11"></a>
+<img src="images/sample_1600/DSCF5157.jpg" alt="Фото 5-11. Процесс выкапывания площадок под палатки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-11. Процесс выкапывания площадок под палатки</p></div>
 
-<a name="ph_5-12"></a>
-![](images/sample_1600/DSCF5279.jpg "Фото 5-12. Место ночевки на леднике под пер. Подарок")
-<p style="text-align: center;">5-12. Место ночевки на леднике под пер. Подарок</p>
+<div><a name="ph_5-12"></a>
+<img src="images/sample_1600/DSCF5279.jpg" alt="Фото 5-12. Место ночевки на леднике под пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 5-12. Место ночевки на леднике под пер. Подарок</p></div>
 
 <a name="photo_end_5"></a>
 
@@ -724,21 +724,21 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Наверху лидер делает станцию вокруг груды камней, на всякий случай подстраховывая её ещё одной петлёй, зацепленной за большой камень, лежащий по ту сторону от седловины. На этой станции организует перила. Остальная часть группы поднимается с ЮЗ стороны перевального взлета по узкой косой полке из разрушенных скал под скальной стенкой. В верхней части подъема нависание стенки, проход узкий, подъем с рюкзаками будет не очень удобный. Последние 5-7 м перед седловиной подъем по верёвке. Крутизна склона в проходимых частях до 30 град, в центре склона в средней и нижней частях крутой скальный выступ. У седловины выполаживание. От лагеря на седловину группа поднялась за 1 час 10 минут. Седловина узкая, скальная, воды нет ([Фото 6-3](#ph_6-3), [Фото 6-4](#ph_6-4)). С западной стороны спуск с перевала не освещается солнцем до 10 утра, камнеопасность в ранние часы обусловлена осыпью, летящей из-под ног участников. Склон на спуск осыпной в верхней части, далее ледовый, крутой. После полудня спуск камнеопасен из-за таяния льда. Сделали перевальное фото и спустились по веревке на ледник. Радиальный выход целиком занял 3 часа.
 
 <a name="photo_6"></a>
-<a name="ph_6-1"></a>
-![](images/sample_1600/DSCF5354-Pano.jpg "Фото 6-1. Перевальный взлет пер. Подарок")
-<p style="text-align: center;">6-1. Перевальный взлет пер. Подарок</p>
+<div><a name="ph_6-1"></a>
+<img src="images/sample_1600/DSCF5354-Pano.jpg" alt="Фото 6-1. Перевальный взлет пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 6-1. Перевальный взлет пер. Подарок</p></div>
 
-<a name="ph_6-2"></a>
-![](images/sample_1600/DSCF5156.jpg "Фото 6-2. Подъем на перевальный взлет пер. Подарок")
-<p style="text-align: center;">6-2. Подъем на перевальный взлет пер. Подарок</p>
+<div><a name="ph_6-2"></a>
+<img src="images/sample_1600/DSCF5156.jpg" alt="Фото 6-2. Подъем на перевальный взлет пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 6-2. Подъем на перевальный взлет пер. Подарок</p></div>
 
-<a name="ph_6-3"></a>
-![](images/sample_1600/DSCF5309-Pano.jpg "Фото 6-3. Седловина пер. Подарок")
-<p style="text-align: center;">6-3. Седловина пер. Подарок</p>
+<div><a name="ph_6-3"></a>
+<img src="images/sample_1600/DSCF5309-Pano.jpg" alt="Фото 6-3. Седловина пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 6-3. Седловина пер. Подарок</p></div>
 
-<a name="ph_6-4"></a>
-![](images/sample_1600/DSCF5320.jpg "Фото 6-4. Группа на пер. Подарок")
-<p style="text-align: center;">6-4. Группа на пер. Подарок</p>
+<div><a name="ph_6-4"></a>
+<img src="images/sample_1600/DSCF5320.jpg" alt="Фото 6-4. Группа на пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 6-4. Группа на пер. Подарок</p></div>
 
 <a name="photo_end_6"></a>
 
@@ -816,69 +816,69 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 С видовой точки зрения хорош и приятен.
 
 <a name="photo_7"></a>
-<a name="ph_7-1"></a>
-![](images/sample_1600/DSCF5456-Pano.jpg "Фото 7-1. Спуск с пер. Подарок на лед. Чугурджар")
-<p style="text-align: center;">7-1. Спуск с пер. Подарок на лед. Чугурджар</p>
+<div><a name="ph_7-1"></a>
+<img src="images/sample_1600/DSCF5456-Pano.jpg" alt="Фото 7-1. Спуск с пер. Подарок на лед. Чугурджар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-1. Спуск с пер. Подарок на лед. Чугурджар</p></div>
 
-<a name="ph_7-2"></a>
-![](images/sample_1600/DSCF5441-Pano.jpg "Фото 7-2. Техническая работа - спуск первого по третьей веревке")
-<p style="text-align: center;">7-2. Техническая работа - спуск первого по третьей веревке</p>
+<div><a name="ph_7-2"></a>
+<img src="images/sample_1600/DSCF5441-Pano.jpg" alt="Фото 7-2. Техническая работа - спуск первого по третьей веревке" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-2. Техническая работа - спуск первого по третьей веревке</p></div>
 
-<a name="ph_7-3"></a>
-![](images/sample_1600/DSCF5457.jpg "Фото 7-3. Снежный мост через бергшрунд")
-<p style="text-align: center;">7-3. Снежный мост через бергшрунд</p>
+<div><a name="ph_7-3"></a>
+<img src="images/sample_1600/DSCF5457.jpg" alt="Фото 7-3. Снежный мост через бергшрунд" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-3. Снежный мост через бергшрунд</p></div>
 
-<a name="ph_7-4"></a>
-![](images/sample_1600/DSCF5461.jpg "Фото 7-4. Техническая работа - спуск по третьей веревке")
-<p style="text-align: center;">7-4. Техническая работа - спуск по третьей веревке</p>
+<div><a name="ph_7-4"></a>
+<img src="images/sample_1600/DSCF5461.jpg" alt="Фото 7-4. Техническая работа - спуск по третьей веревке" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-4. Техническая работа - спуск по третьей веревке</p></div>
 
-<a name="ph_7-5"></a>
-![](images/sample_1600/DSCF5316-Pano.jpg "Фото 7-5. Путь спуска через лед. Чугурджар")
-<p style="text-align: center;">7-5. Путь спуска через лед. Чугурджар</p>
+<div><a name="ph_7-5"></a>
+<img src="images/sample_1600/DSCF5316-Pano.jpg" alt="Фото 7-5. Путь спуска через лед. Чугурджар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-5. Путь спуска через лед. Чугурджар</p></div>
 
-<a name="ph_7-6"></a>
-![](images/sample_1600/DSCF5483.jpg "Фото 7-6. Обход трещин на лед. Чугурджар")
-<p style="text-align: center;">7-6. Обход трещин на лед. Чугурджар</p>
+<div><a name="ph_7-6"></a>
+<img src="images/sample_1600/DSCF5483.jpg" alt="Фото 7-6. Обход трещин на лед. Чугурджар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-6. Обход трещин на лед. Чугурджар</p></div>
 
-<a name="ph_7-7"></a>
-![](images/sample_1600/DSCF5513.jpg "Фото 7-7. Траверсная веревка для спуска с крутой части ледника")
-<p style="text-align: center;">7-7. Траверсная веревка для спуска с крутой части ледника</p>
+<div><a name="ph_7-7"></a>
+<img src="images/sample_1600/DSCF5513.jpg" alt="Фото 7-7. Траверсная веревка для спуска с крутой части ледника" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-7. Траверсная веревка для спуска с крутой части ледника</p></div>
 
-<a name="ph_7-8"></a>
-![](images/sample_1600/DSCF5488.jpg "Фото 7-8. Техническая работа - прохождение траверсной веревки")
-<p style="text-align: center;">7-8. Техническая работа - прохождение траверсной веревки</p>
+<div><a name="ph_7-8"></a>
+<img src="images/sample_1600/DSCF5488.jpg" alt="Фото 7-8. Техническая работа - прохождение траверсной веревки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-8. Техническая работа - прохождение траверсной веревки</p></div>
 
-<a name="ph_7-9"></a>
-![](images/sample_1600/DSCF5534.jpg "Фото 7-9. Спуск с ледника в д.р. Чугурджар")
-<p style="text-align: center;">7-9. Спуск с ледника в д.р. Чугурджар</p>
+<div><a name="ph_7-9"></a>
+<img src="images/sample_1600/DSCF5534.jpg" alt="Фото 7-9. Спуск с ледника в д.р. Чугурджар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-9. Спуск с ледника в д.р. Чугурджар</p></div>
 
-<a name="ph_7-10"></a>
-![](images/sample_1600/DSCF5544.jpg "Фото 7-10. Общий вид спуска с пер. Подарок")
-<p style="text-align: center;">7-10. Общий вид спуска с пер. Подарок</p>
+<div><a name="ph_7-10"></a>
+<img src="images/sample_1600/DSCF5544.jpg" alt="Фото 7-10. Общий вид спуска с пер. Подарок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-10. Общий вид спуска с пер. Подарок</p></div>
 
-<a name="ph_7-11"></a>
-![](images/sample_1600/DSCF5565.jpg "Фото 7-11. Характер тропы при подъеме на пер. Малый Кичкинекол")
-<p style="text-align: center;">7-11. Характер тропы при подъеме на пер. Малый Кичкинекол</p>
+<div><a name="ph_7-11"></a>
+<img src="images/sample_1600/DSCF5565.jpg" alt="Фото 7-11. Характер тропы при подъеме на пер. Малый Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-11. Характер тропы при подъеме на пер. Малый Кичкинекол</p></div>
 
-<a name="ph_7-12"></a>
-![](images/sample_1600/DSCF5562.jpg "Фото 7-12. Подъем по тропе на пер. Малый Кичкиникол из д.р. Чугурджар")
-<p style="text-align: center;">7-12. Подъем по тропе на пер. Малый Кичкиникол из д.р. Чугурджар</p>
+<div><a name="ph_7-12"></a>
+<img src="images/sample_1600/DSCF5562.jpg" alt="Фото 7-12. Подъем по тропе на пер. Малый Кичкиникол из д.р. Чугурджар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-12. Подъем по тропе на пер. Малый Кичкиникол из д.р. Чугурджар</p></div>
 
-<a name="ph_7-13"></a>
-![](images/sample_1600/DSCF5580.jpg "Фото 7-13. Группа на пер. Малый Кичкинекол")
-<p style="text-align: center;">7-13. Группа на пер. Малый Кичкинекол</p>
+<div><a name="ph_7-13"></a>
+<img src="images/sample_1600/DSCF5580.jpg" alt="Фото 7-13. Группа на пер. Малый Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-13. Группа на пер. Малый Кичкинекол</p></div>
 
-<a name="ph_7-14"></a>
-![](images/sample_1600/DSCF5587.jpg "Фото 7-14. Спуск на СЗ с пер. Малый Кичкинекол")
-<p style="text-align: center;">7-14. Спуск на СЗ с пер. Малый Кичкинекол</p>
+<div><a name="ph_7-14"></a>
+<img src="images/sample_1600/DSCF5587.jpg" alt="Фото 7-14. Спуск на СЗ с пер. Малый Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-14. Спуск на СЗ с пер. Малый Кичкинекол</p></div>
 
-<a name="ph_7-15"></a>
-![](images/sample_1600/DSCF5573.jpg "Фото 7-15. Спуск на СЗ с пер. Малый Кичкинекол")
-<p style="text-align: center;">7-15. Спуск на СЗ с пер. Малый Кичкинекол</p>
+<div><a name="ph_7-15"></a>
+<img src="images/sample_1600/DSCF5573.jpg" alt="Фото 7-15. Спуск на СЗ с пер. Малый Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-15. Спуск на СЗ с пер. Малый Кичкинекол</p></div>
 
-<a name="ph_7-16"></a>
-![](images/sample_1600/DSCF5590.jpg "Фото 7-16. Место стоянки под пер. Малый Кичкинекол")
-<p style="text-align: center;">7-16. Место стоянки под пер. Малый Кичкинекол</p>
+<div><a name="ph_7-16"></a>
+<img src="images/sample_1600/DSCF5590.jpg" alt="Фото 7-16. Место стоянки под пер. Малый Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 7-16. Место стоянки под пер. Малый Кичкинекол</p></div>
 
 <a name="photo_end_7"></a>
 
@@ -919,41 +919,41 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Проходим немного по лугу и после устья водопада начинаем подниматься по тропе по травянистому склону на левый борт долины общим направлением на запад ([Фото 8-8](#ph_8-8)). Эта тропа ведет на посещаемый перевал Джалпакол Северный и хорошо утоптана. Уклон 15-30 градусов. Через 1 час 55 минут подъема тропа поворачивает севернее в сторону пер. Джалпакол, мы же продолжаем движение на З к озеру 2790. Через 20 минут, в 17.53, встаем на В берегу озера на ночевку ([Фото 8-9](#ph_8-9)) (`N 43.26773 E 42.12503` GPS). Воду берем из ручья, впадающего в озеро. Всего на подъем из д.р. Мырды к озеру 2790 мы потратили 2 часа 15 минут ЧХВ.
 
 <a name="photo_8"></a>
-<a name="ph_8-1"></a>
-![](images/sample_1600/DSCF5755.jpg "Фото 8-1. Озеро в д.р. Таллычат")
-<p style="text-align: center;">8-1. Озеро в д.р. Таллычат</p>
+<div><a name="ph_8-1"></a>
+<img src="images/sample_1600/DSCF5755.jpg" alt="Фото 8-1. Озеро в д.р. Таллычат" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-1. Озеро в д.р. Таллычат</p></div>
 
-<a name="ph_8-2"></a>
-![](images/sample_1600/DSCF5799.jpg "Фото 8-2. Спуск в д.р. Кичкинекол")
-<p style="text-align: center;">8-2. Спуск в д.р. Кичкинекол</p>
+<div><a name="ph_8-2"></a>
+<img src="images/sample_1600/DSCF5799.jpg" alt="Фото 8-2. Спуск в д.р. Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-2. Спуск в д.р. Кичкинекол</p></div>
 
-<a name="ph_8-3"></a>
-![](images/sample_1600/DSCF5829.jpg "Фото 8-3. Место привала в разливе р. Кичкинекол")
-<p style="text-align: center;">8-3. Место привала в разливе р. Кичкинекол</p>
+<div><a name="ph_8-3"></a>
+<img src="images/sample_1600/DSCF5829.jpg" alt="Фото 8-3. Место привала в разливе р. Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-3. Место привала в разливе р. Кичкинекол</p></div>
 
-<a name="ph_8-4"></a>
-![](images/sample_1600/DSCF5859.jpg "Фото 8-4. Дорога в д.р. Кичкинекол")
-<p style="text-align: center;">8-4. Дорога в д.р. Кичкинекол</p>
+<div><a name="ph_8-4"></a>
+<img src="images/sample_1600/DSCF5859.jpg" alt="Фото 8-4. Дорога в д.р. Кичкинекол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-4. Дорога в д.р. Кичкинекол</p></div>
 
-<a name="ph_8-5"></a>
-![](images/sample_1600/DSCF5868.jpg "Фото 8-5. Мост через р, Узункол в а/л Узункол")
-<p style="text-align: center;">8-5. Мост через р, Узункол в а/л Узункол</p>
+<div><a name="ph_8-5"></a>
+<img src="images/sample_1600/DSCF5868.jpg" alt="Фото 8-5. Мост через р, Узункол в а/л Узункол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-5. Мост через р, Узункол в а/л Узункол</p></div>
 
-<a name="ph_8-6"></a>
-![](images/sample_1600/DSCF5885.jpg "Фото 8-6. Группа в а/л Узункол")
-<p style="text-align: center;">8-6. Группа в а/л Узункол</p>
+<div><a name="ph_8-6"></a>
+<img src="images/sample_1600/DSCF5885.jpg" alt="Фото 8-6. Группа в а/л Узункол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-6. Группа в а/л Узункол</p></div>
 
-<a name="ph_8-7"></a>
-![](images/sample_1600/DSCF5887.jpg "Фото 8-7. Мосты через р. Мырды")
-<p style="text-align: center;">8-7. Мосты через р. Мырды</p>
+<div><a name="ph_8-7"></a>
+<img src="images/sample_1600/DSCF5887.jpg" alt="Фото 8-7. Мосты через р. Мырды" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-7. Мосты через р. Мырды</p></div>
 
-<a name="ph_8-8"></a>
-![](images/sample_1600/DSCF5960.jpg "Фото 8-8. Траектория движения в д.р. Мырды")
-<p style="text-align: center;">8-8. Траектория движения в д.р. Мырды</p>
+<div><a name="ph_8-8"></a>
+<img src="images/sample_1600/DSCF5960.jpg" alt="Фото 8-8. Траектория движения в д.р. Мырды" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-8. Траектория движения в д.р. Мырды</p></div>
 
-<a name="ph_8-9"></a>
-![](images/sample_1600/DSCF5972-Pano.jpg "Фото 8-9. Место ночевки у оз. 2790")
-<p style="text-align: center;">8-9. Место ночевки у оз. 2790</p>
+<div><a name="ph_8-9"></a>
+<img src="images/sample_1600/DSCF5972-Pano.jpg" alt="Фото 8-9. Место ночевки у оз. 2790" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 8-9. Место ночевки у оз. 2790</p></div>
 
 <a name="photo_end_8"></a>
 
@@ -1048,77 +1048,77 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 как если бы мы поднимались из долины.
 
 <a name="photo_9"></a>
-<a name="ph_9-1"></a>
-![](images/sample_1600/DSCF6061.jpg "Фото 9-1. Подъем к озерам Мырды")
-<p style="text-align: center;">9-1. Подъем к озерам Мырды</p>
+<div><a name="ph_9-1"></a>
+<img src="images/sample_1600/DSCF6061.jpg" alt="Фото 9-1. Подъем к озерам Мырды" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-1. Подъем к озерам Мырды</p></div>
 
-<a name="ph_9-2"></a>
-![](images/sample_1600/DSCF6080.jpg "Фото 9-2. Тропа по берегу оз. 3020")
-<p style="text-align: center;">9-2. Тропа по берегу оз. 3020</p>
+<div><a name="ph_9-2"></a>
+<img src="images/sample_1600/DSCF6080.jpg" alt="Фото 9-2. Тропа по берегу оз. 3020" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-2. Тропа по берегу оз. 3020</p></div>
 
-<a name="ph_9-3"></a>
-![](images/sample_1600/DSCF6115.jpg "Фото 9-3. Перевальный взлет пер. Озерковый")
-<p style="text-align: center;">9-3. Перевальный взлет пер. Озерковый</p>
+<div><a name="ph_9-3"></a>
+<img src="images/sample_1600/DSCF6115.jpg" alt="Фото 9-3. Перевальный взлет пер. Озерковый" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-3. Перевальный взлет пер. Озерковый</p></div>
 
-<a name="ph_9-4"></a>
-![](images/sample_1600/20210827_090106.jpg "Фото 9-4. Группа на пер. Озерковый")
-<p style="text-align: center;">9-4. Группа на пер. Озерковый</p>
+<div><a name="ph_9-4"></a>
+<img src="images/sample_1600/20210827_090106.jpg" alt="Фото 9-4. Группа на пер. Озерковый" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-4. Группа на пер. Озерковый</p></div>
 
-<a name="ph_9-5"></a>
-![](images/sample_1600/DSCF6128-Pano.jpg "Фото 9-5. Путь с пер. Озерковый по направлению к пер. Пролаз-79")
-<p style="text-align: center;">9-5. Путь с пер. Озерковый по направлению к пер. Пролаз-79</p>
+<div><a name="ph_9-5"></a>
+<img src="images/sample_1600/DSCF6128-Pano.jpg" alt="Фото 9-5. Путь с пер. Озерковый по направлению к пер. Пролаз-79" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-5. Путь с пер. Озерковый по направлению к пер. Пролаз-79</p></div>
 
-<a name="ph_9-6"></a>
-![](images/sample_1600/DSCF6161.jpg "Фото 9-6. Небольшое озеро под пер Озерковый")
-<p style="text-align: center;">9-6. Небольшое озеро под пер Озерковый</p>
+<div><a name="ph_9-6"></a>
+<img src="images/sample_1600/DSCF6161.jpg" alt="Фото 9-6. Небольшое озеро под пер Озерковый" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-6. Небольшое озеро под пер Озерковый</p></div>
 
-<a name="ph_9-7"></a>
-![](images/sample_1600/DSCF6163-Pano.jpg "Фото 9-7. Путь подъема на пер. Пролаз-79")
-<p style="text-align: center;">9-7. Путь подъема на пер. Пролаз-79</p>
+<div><a name="ph_9-7"></a>
+<img src="images/sample_1600/DSCF6163-Pano.jpg" alt="Фото 9-7. Путь подъема на пер. Пролаз-79" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-7. Путь подъема на пер. Пролаз-79</p></div>
 
-<a name="ph_9-8"></a>
-![](images/sample_1600/DSCF6181.jpg "Фото 9-8. Западная седловина пер. Пролаз-79, тур")
-<p style="text-align: center;">9-8. Западная седловина пер. Пролаз-79, тур</p>
+<div><a name="ph_9-8"></a>
+<img src="images/sample_1600/DSCF6181.jpg" alt="Фото 9-8. Западная седловина пер. Пролаз-79, тур" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-8. Западная седловина пер. Пролаз-79, тур</p></div>
 
-<a name="ph_9-9"></a>
-![](images/sample_1600/DSCF6177.jpg "Фото 9-9. Траверс травянистого склона под пер. Актур В")
-<p style="text-align: center;">9-9. Траверс травянистого склона под пер. Актур В</p>
+<div><a name="ph_9-9"></a>
+<img src="images/sample_1600/DSCF6177.jpg" alt="Фото 9-9. Траверс травянистого склона под пер. Актур В" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-9. Траверс травянистого склона под пер. Актур В</p></div>
 
-<a name="ph_9-10"></a>
-![](images/sample_1600/DSCF6190.jpg "Фото 9-10. Траверс осыпного склона под пер. Актур Восточный")
-<p style="text-align: center;">9-10. Траверс осыпного склона под пер. Актур Восточный</p>
+<div><a name="ph_9-10"></a>
+<img src="images/sample_1600/DSCF6190.jpg" alt="Фото 9-10. Траверс осыпного склона под пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-10. Траверс осыпного склона под пер. Актур Восточный</p></div>
 
-<a name="ph_9-11"></a>
-![](images/sample_1600/DSCF6203-Pano.jpg "Фото 9-11. Перевальный взлет пер. Актур Восточный с ССЗ стороны")
-<p style="text-align: center;">9-11. Перевальный взлет пер. Актур Восточный с ССЗ стороны</p>
+<div><a name="ph_9-11"></a>
+<img src="images/sample_1600/DSCF6203-Pano.jpg" alt="Фото 9-11. Перевальный взлет пер. Актур Восточный с ССЗ стороны" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-11. Перевальный взлет пер. Актур Восточный с ССЗ стороны</p></div>
 
-<a name="ph_9-12"></a>
-![](images/sample_1600/DSCF6231.jpg "Фото 9-12. Седловина пер. Актур Восточный")
-<p style="text-align: center;">9-12. Седловина пер. Актур Восточный</p>
+<div><a name="ph_9-12"></a>
+<img src="images/sample_1600/DSCF6231.jpg" alt="Фото 9-12. Седловина пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-12. Седловина пер. Актур Восточный</p></div>
 
-<a name="ph_9-13"></a>
-![](images/sample_1600/DSCF6256.jpg "Фото 9-13. Группа на пер. Актур Восточный")
-<p style="text-align: center;">9-13. Группа на пер. Актур Восточный</p>
+<div><a name="ph_9-13"></a>
+<img src="images/sample_1600/DSCF6256.jpg" alt="Фото 9-13. Группа на пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-13. Группа на пер. Актур Восточный</p></div>
 
-<a name="ph_9-14"></a>
-![](images/sample_1600/DSCF6219.jpg "Фото 9-14. Вершина Актур, вид с седловины пер. Актур Восточный")
-<p style="text-align: center;">9-14. Вершина Актур, вид с седловины пер. Актур Восточный</p>
+<div><a name="ph_9-14"></a>
+<img src="images/sample_1600/DSCF6219.jpg" alt="Фото 9-14. Вершина Актур, вид с седловины пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-14. Вершина Актур, вид с седловины пер. Актур Восточный</p></div>
 
-<a name="ph_9-15"></a>
-![](images/sample_1600/DSCF6249-Pano.jpg "Фото 9-15. Спуск с ледника под пер. Актур Восточный")
-<p style="text-align: center;">9-15. Спуск с ледника под пер. Актур Восточный</p>
+<div><a name="ph_9-15"></a>
+<img src="images/sample_1600/DSCF6249-Pano.jpg" alt="Фото 9-15. Спуск с ледника под пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-15. Спуск с ледника под пер. Актур Восточный</p></div>
 
-<a name="ph_9-16"></a>
-![](images/sample_1600/DSCF6503-Pano.jpg "Фото 9-16. Спуск с ледника под пер. Актур Восточный")
-<p style="text-align: center;">9-16. Спуск с ледника под пер. Актур Восточный</p>
+<div><a name="ph_9-16"></a>
+<img src="images/sample_1600/DSCF6503-Pano.jpg" alt="Фото 9-16. Спуск с ледника под пер. Актур Восточный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-16. Спуск с ледника под пер. Актур Восточный</p></div>
 
-<a name="ph_9-17"></a>
-![](images/sample_1600/DSCF6257.jpg "Фото 9-17. Техническая работа: прохождение первой веревки, пологого участка и организация верхней станции второй веревки")
-<p style="text-align: center;">9-17. Техническая работа: прохождение первой веревки, пологого участка и организация верхней станции второй веревки</p>
+<div><a name="ph_9-17"></a>
+<img src="images/sample_1600/DSCF6257.jpg" alt="Фото 9-17. Техническая работа: прохождение первой веревки, пологого участка и организация верхней станции второй веревки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-17. Техническая работа: прохождение первой веревки, пологого участка и организация верхней станции второй веревки</p></div>
 
-<a name="ph_9-18"></a>
-![](images/sample_1600/DSCF6295.jpg "Фото 9-18. Техническая работа: прохождение трещины")
-<p style="text-align: center;">9-18. Техническая работа: прохождение трещины</p>
+<div><a name="ph_9-18"></a>
+<img src="images/sample_1600/DSCF6295.jpg" alt="Фото 9-18. Техническая работа: прохождение трещины" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 9-18. Техническая работа: прохождение трещины</p></div>
 
 <a name="photo_end_9"></a>
 
@@ -1159,45 +1159,45 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Выходим от турбазы Глобус вверх по д.р. Гондарай. За 40 минут возвращаемся к мосту через Гондарай, продолжаем движение по левому берегу реки. Через 10 минут становимся на ночевку на полянке на берегу реки (`N 43.29408 E 42.01132` GPS).
 
 <a name="photo_10"></a>
-<a name="ph_10-1"></a>
-![](images/sample_1600/DSCF6551.jpg "Фото 10-1. Спуск из-под пер. Актур Восточный в д.р. Джалпакол")
-<p style="text-align: center;">10-1. Спуск из-под пер. Актур Восточный в д.р. Джалпакол</p>
+<div><a name="ph_10-1"></a>
+<img src="images/sample_1600/DSCF6551.jpg" alt="Фото 10-1. Спуск из-под пер. Актур Восточный в д.р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-1. Спуск из-под пер. Актур Восточный в д.р. Джалпакол</p></div>
 
-<a name="ph_10-2"></a>
-![](images/sample_1600/DSCF6530.jpg "Фото 10-2. Разлив реки Джалпакол. Красным отмечен наш путь, синим - оптимальный")
-<p style="text-align: center;">10-2. Разлив реки Джалпакол. Красным отмечен наш путь, синим - оптимальный</p>
+<div><a name="ph_10-2"></a>
+<img src="images/sample_1600/DSCF6530.jpg" alt="Фото 10-2. Разлив реки Джалпакол. Красным отмечен наш путь, синим - оптимальный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-2. Разлив реки Джалпакол. Красным отмечен наш путь, синим - оптимальный</p></div>
 
-<a name="ph_10-3"></a>
-![](images/sample_1600/DSCF6574.jpg "Фото 10-3. Путь по правому берегу р. Джалпакол. Красным отмечен наш путь, синим - оптимальный")
-<p style="text-align: center;">10-3. Путь по правому берегу р. Джалпакол. Красным отмечен наш путь, синим - оптимальный</p>
+<div><a name="ph_10-3"></a>
+<img src="images/sample_1600/DSCF6574.jpg" alt="Фото 10-3. Путь по правому берегу р. Джалпакол. Красным отмечен наш путь, синим - оптимальный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-3. Путь по правому берегу р. Джалпакол. Красным отмечен наш путь, синим - оптимальный</p></div>
 
-<a name="ph_10-4"></a>
-![](images/sample_1600/DSCF6570.jpg "Фото 10-4. Путь по правому берегу р. Джалпакол")
-<p style="text-align: center;">10-4. Путь по правому берегу р. Джалпакол</p>
+<div><a name="ph_10-4"></a>
+<img src="images/sample_1600/DSCF6570.jpg" alt="Фото 10-4. Путь по правому берегу р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-4. Путь по правому берегу р. Джалпакол</p></div>
 
-<a name="ph_10-5"></a>
-![](images/sample_1600/DSCF6613.jpg "Фото 10-5. Брод р. Джалпакол")
-<p style="text-align: center;">10-5. Брод р. Джалпакол</p>
+<div><a name="ph_10-5"></a>
+<img src="images/sample_1600/DSCF6613.jpg" alt="Фото 10-5. Брод р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-5. Брод р. Джалпакол</p></div>
 
-<a name="ph_10-6"></a>
-![](images/sample_1600/DSCF6635.jpg "Фото 10-6. Характер тропы по левому берегу р. Джалпакол")
-<p style="text-align: center;">10-6. Характер тропы по левому берегу р. Джалпакол</p>
+<div><a name="ph_10-6"></a>
+<img src="images/sample_1600/DSCF6635.jpg" alt="Фото 10-6. Характер тропы по левому берегу р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-6. Характер тропы по левому берегу р. Джалпакол</p></div>
 
-<a name="ph_10-7"></a>
-![](images/sample_1600/DSCF6673.jpg "Фото 10-7. Место обеда в д.р. Джалпакол")
-<p style="text-align: center;">10-7. Место обеда в д.р. Джалпакол</p>
+<div><a name="ph_10-7"></a>
+<img src="images/sample_1600/DSCF6673.jpg" alt="Фото 10-7. Место обеда в д.р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-7. Место обеда в д.р. Джалпакол</p></div>
 
-<a name="ph_10-8"></a>
-![](images/sample_1600/DSCF6709.jpg "Фото 10-8. Мост через р. Джалпакол")
-<p style="text-align: center;">10-8. Мост через р. Джалпакол</p>
+<div><a name="ph_10-8"></a>
+<img src="images/sample_1600/DSCF6709.jpg" alt="Фото 10-8. Мост через р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-8. Мост через р. Джалпакол</p></div>
 
-<a name="ph_10-9"></a>
-![](images/sample_1600/DSCF6770.jpg "Фото 10-9. Характер дороги по правому берегу р. Джалпакол")
-<p style="text-align: center;">10-9. Характер дороги по правому берегу р. Джалпакол</p>
+<div><a name="ph_10-9"></a>
+<img src="images/sample_1600/DSCF6770.jpg" alt="Фото 10-9. Характер дороги по правому берегу р. Джалпакол" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-9. Характер дороги по правому берегу р. Джалпакол</p></div>
 
-<a name="ph_10-10"></a>
-![](images/sample_1600/DSCF6773.jpg "Фото 10-10. Мост через р. Гондарай")
-<p style="text-align: center;">10-10. Мост через р. Гондарай</p>
+<div><a name="ph_10-10"></a>
+<img src="images/sample_1600/DSCF6773.jpg" alt="Фото 10-10. Мост через р. Гондарай" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 10-10. Мост через р. Гондарай</p></div>
 
 <a name="photo_end_10"></a>
 
@@ -1222,37 +1222,37 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 После обеда начинаем подниматься на левый борт долины, затем переходим вброд ручей – левый приток р. Гондарай, вытекающий из-под пер. Гондарай-Махар. Глубина до 40 см ([Фото 11-6](#ph_11-6)). Поднимаемся по травянистому склону с зарослями рододендрона крутизной около 30 градусов общим направлением на З. Спустя 2 часа 15 минут подъема подошли под скалы типа бараньих лбов. Огибаем скалы с Ю стороны, поднимаемся по бараньим лбам и средней осыпи до верха ступени перевала ([Фото 11-7](#ph_11-7)). Далее по средней осыпи в С направлении проходим к озеру под ледником под пер. Гондарай-Махар за 1 час 22 минуты. Встаем на ночевку на морене к В от озера в 19.10 ([Фото 11-8](#ph_11-8)) (`N 43.22814 E 41.96049` GPS). Воду берем из озера. Всего на подъем из д.р. Гондарай к озеру под пер. Гондарай-Махар затратили 3 часа 37 минут ЧХВ.
 
 <a name="photo_11"></a>
-<a name="ph_11-1"></a>
-![](images/sample_1600/DSCF6788.jpg "Фото 11-1. Характер дороги в д.р. Гондарай")
-<p style="text-align: center;">11-1. Характер дороги в д.р. Гондарай</p>
+<div><a name="ph_11-1"></a>
+<img src="images/sample_1600/DSCF6788.jpg" alt="Фото 11-1. Характер дороги в д.р. Гондарай" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-1. Характер дороги в д.р. Гондарай</p></div>
 
-<a name="ph_11-2"></a>
-![](images/sample_1600/DSCF6792.jpg "Фото 11-2. Водапад Гондарай на правом притоке р. Гондарай")
-<p style="text-align: center;">11-2. Водапад Гондарай на правом притоке р. Гондарай</p>
+<div><a name="ph_11-2"></a>
+<img src="images/sample_1600/DSCF6792.jpg" alt="Фото 11-2. Водапад Гондарай на правом притоке р. Гондарай" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-2. Водапад Гондарай на правом притоке р. Гондарай</p></div>
 
-<a name="ph_11-3"></a>
-![](images/sample_1600/DSCF6795.jpg "Фото 11-3. Мост через р. Индрикой")
-<p style="text-align: center;">11-3. Мост через р. Индрикой</p>
+<div><a name="ph_11-3"></a>
+<img src="images/sample_1600/DSCF6795.jpg" alt="Фото 11-3. Мост через р. Индрикой" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-3. Мост через р. Индрикой</p></div>
 
-<a name="ph_11-4"></a>
-![](images/sample_1600/DSCF6798.jpg "Фото 11-4. Мосты через р. Гондарай выше впадения р. Индрикой")
-<p style="text-align: center;">11-4. Мосты через р. Гондарай выше впадения р. Индрикой</p>
+<div><a name="ph_11-4"></a>
+<img src="images/sample_1600/DSCF6798.jpg" alt="Фото 11-4. Мосты через р. Гондарай выше впадения р. Индрикой" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-4. Мосты через р. Гондарай выше впадения р. Индрикой</p></div>
 
-<a name="ph_11-5"></a>
-![](images/sample_1600/DSCF6818.jpg "Фото 11-5. Подъем по д.р. Гондарай")
-<p style="text-align: center;">11-5. Подъем по д.р. Гондарай</p>
+<div><a name="ph_11-5"></a>
+<img src="images/sample_1600/DSCF6818.jpg" alt="Фото 11-5. Подъем по д.р. Гондарай" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-5. Подъем по д.р. Гондарай</p></div>
 
-<a name="ph_11-6"></a>
-![](images/sample_1600/DSCF6829.jpg "Фото 11-6. Брод левого притока р. Гондарай")
-<p style="text-align: center;">11-6. Брод левого притока р. Гондарай</p>
+<div><a name="ph_11-6"></a>
+<img src="images/sample_1600/DSCF6829.jpg" alt="Фото 11-6. Брод левого притока р. Гондарай" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-6. Брод левого притока р. Гондарай</p></div>
 
-<a name="ph_11-7"></a>
-![](images/sample_1600/DSCF6878.jpg "Фото 11-7. Характер подъема к озеру под пер. Годарай-Махар")
-<p style="text-align: center;">11-7. Характер подъема к озеру под пер. Годарай-Махар</p>
+<div><a name="ph_11-7"></a>
+<img src="images/sample_1600/DSCF6878.jpg" alt="Фото 11-7. Характер подъема к озеру под пер. Годарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-7. Характер подъема к озеру под пер. Годарай-Махар</p></div>
 
-<a name="ph_11-8"></a>
-![](images/sample_1600/DSCF6938.jpg "Фото 11-8. Ночевка у озера под пер. Гондарай-Махар")
-<p style="text-align: center;">11-8. Ночевка у озера под пер. Гондарай-Махар</p>
+<div><a name="ph_11-8"></a>
+<img src="images/sample_1600/DSCF6938.jpg" alt="Фото 11-8. Ночевка у озера под пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 11-8. Ночевка у озера под пер. Гондарай-Махар</p></div>
 
 <a name="photo_end_11"></a>
 
@@ -1296,49 +1296,49 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 (в начале и середине лета).
 
 <a name="photo_12"></a>
-<a name="ph_12-1"></a>
-![](images/sample_1600/DSCF6905-Pano.jpg "Фото 12-1. Путь подъема на пер. Гондарай-Махар")
-<p style="text-align: center;">12-1. Путь подъема на пер. Гондарай-Махар</p>
+<div><a name="ph_12-1"></a>
+<img src="images/sample_1600/DSCF6905-Pano.jpg" alt="Фото 12-1. Путь подъема на пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-1. Путь подъема на пер. Гондарай-Махар</p></div>
 
-<a name="ph_12-2"></a>
-![](images/sample_1600/DSCF6954.jpg "Фото 12-2. Характер подъема на первую ступень бараньих лбов")
-<p style="text-align: center;">12-2. Характер подъема на первую ступень бараньих лбов</p>
+<div><a name="ph_12-2"></a>
+<img src="images/sample_1600/DSCF6954.jpg" alt="Фото 12-2. Характер подъема на первую ступень бараньих лбов" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-2. Характер подъема на первую ступень бараньих лбов</p></div>
 
-<a name="ph_12-3"></a>
-![](images/sample_1600/DSCF6976.jpg "Фото 12-3. Техническая работа: ледобурные дорожки")
-<p style="text-align: center;">12-3. Техническая работа: ледобурные дорожки</p>
+<div><a name="ph_12-3"></a>
+<img src="images/sample_1600/DSCF6976.jpg" alt="Фото 12-3. Техническая работа: ледобурные дорожки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-3. Техническая работа: ледобурные дорожки</p></div>
 
-<a name="ph_12-4"></a>
-![](images/sample_1600/DSCF6991.jpg "Фото 12-4. Преодоление первой ступени ледника")
-<p style="text-align: center;">12-4. Преодоление первой ступени ледника</p>
+<div><a name="ph_12-4"></a>
+<img src="images/sample_1600/DSCF6991.jpg" alt="Фото 12-4. Преодоление первой ступени ледника" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-4. Преодоление первой ступени ледника</p></div>
 
-<a name="ph_12-5"></a>
-![](images/sample_1600/DSCF7016.jpg "Фото 12-5. Обход трещин на второй ступени ледника")
-<p style="text-align: center;">12-5. Обход трещин на второй ступени ледника</p>
+<div><a name="ph_12-5"></a>
+<img src="images/sample_1600/DSCF7016.jpg" alt="Фото 12-5. Обход трещин на второй ступени ледника" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-5. Обход трещин на второй ступени ледника</p></div>
 
-<a name="ph_12-6"></a>
-![](images/sample_1600/DSCF7049-Pano.jpg "Фото 12-6. Седловина пер. Гондарай-Махар")
-<p style="text-align: center;">12-6. Седловина пер. Гондарай-Махар</p>
+<div><a name="ph_12-6"></a>
+<img src="images/sample_1600/DSCF7049-Pano.jpg" alt="Фото 12-6. Седловина пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-6. Седловина пер. Гондарай-Махар</p></div>
 
-<a name="ph_12-7"></a>
-![](images/sample_1600/DSCF7074.jpg "Фото 12-7. Группа на седловине пер. Гондарай-Махар")
-<p style="text-align: center;">12-7. Группа на седловине пер. Гондарай-Махар</p>
+<div><a name="ph_12-7"></a>
+<img src="images/sample_1600/DSCF7074.jpg" alt="Фото 12-7. Группа на седловине пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-7. Группа на седловине пер. Гондарай-Махар</p></div>
 
-<a name="ph_12-8"></a>
-![](images/sample_1600/DSCF7077-Pano.jpg "Фото 12-8. Характер спуска с пер. Гондарай-Махар")
-<p style="text-align: center;">12-8. Характер спуска с пер. Гондарай-Махар</p>
+<div><a name="ph_12-8"></a>
+<img src="images/sample_1600/DSCF7077-Pano.jpg" alt="Фото 12-8. Характер спуска с пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-8. Характер спуска с пер. Гондарай-Махар</p></div>
 
-<a name="ph_12-9"></a>
-![](images/sample_1600/DSCF7090.jpg "Фото 12-9. Спуск с пер. Гондарай-Махар")
-<p style="text-align: center;">12-9. Спуск с пер. Гондарай-Махар</p>
+<div><a name="ph_12-9"></a>
+<img src="images/sample_1600/DSCF7090.jpg" alt="Фото 12-9. Спуск с пер. Гондарай-Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-9. Спуск с пер. Гондарай-Махар</p></div>
 
-<a name="ph_12-10"></a>
-![](images/sample_1600/DSCF7093.jpg "Фото 12-10. Путь по В берегу оз. 2770, треугольником обозначено место ночевки")
-<p style="text-align: center;">12-10. Путь по В берегу оз. 2770, треугольником обозначено место ночевки</p>
+<div><a name="ph_12-10"></a>
+<img src="images/sample_1600/DSCF7093.jpg" alt="Фото 12-10. Путь по В берегу оз. 2770, треугольником обозначено место ночевки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-10. Путь по В берегу оз. 2770, треугольником обозначено место ночевки</p></div>
 
-<a name="ph_12-11"></a>
-![](images/sample_1600/DSCF7206.jpg "Фото 12-11. Стоянка к С от оз. 2770")
-<p style="text-align: center;">12-11. Стоянка к С от оз. 2770</p>
+<div><a name="ph_12-11"></a>
+<img src="images/sample_1600/DSCF7206.jpg" alt="Фото 12-11. Стоянка к С от оз. 2770" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 12-11. Стоянка к С от оз. 2770</p></div>
 
 <a name="photo_end_12"></a>
 
@@ -1372,29 +1372,29 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 После обеда начинаем подниматься в сторону пер. Кичи-Муруджу Центральный по д.р. Чаулу-Чат. Мостик через р. Махар, находящийся сразу ниже впадения р. Чаулу-Чат, сломан. Решаем, что использовать его небезопасно ([Фото 13-3](#ph_13-3)). Поэтому последовательно бродим сначала р. Махар выше впадения р. Чаулу-Чат, а затем р. Чаулу-Чат ([Фото 13-4](#ph_13-4)). Далее поднимаемся по правому берегу ручья, сначала без тропы через кустарник, через 50 минут подходим ближе к ручью и выходим на каменистую тропу, идем по ней на З. Крутизна склона до 20 градусов. Местами тропа помечена туриками, проходит через участок крупной осыпи, затем начинает подниматься на левый борт долины. Через 34 минуты понимаем, что дальше тропа проходит траверсом крутого (до 30 градусов) травянистого склона под бараньими лбами. Склон кажется нам неприятным и мы решаем спуститься ниже на курумник. Здесь лежат огромные камни, пролезаем по ним. Теперь они нам не кажутся удобнее, чем травянистый склон. Важно не растягиваться, так как среди каменного лабиринта легко потеряться ([Фото 13-5](#ph_13-5)). Через 1 час 12 минут выходим с осыпи и за 24 минуты поднимаемся по каменисто-травянистому склону на З на следующую ступень долины. Там расположено живописное озеро, разделенное скалой ([Фото 13-6](#ph_13-6)). Останавливаемся на ночевку на траве его ЮВ берегу (`N 43.25120 E 41.90805` GPS) в 17.30. Всего подъем от д.р. Махар к оз. 2574 занял 3 часа ЧХВ.
 
 <a name="photo_13"></a>
-<a name="ph_13-1"></a>
-![](images/sample_1600/DSCF7271-Pano.jpg "Фото 13-1. Кулуар на спуске от оз. 2770 в д.р. Махар")
-<p style="text-align: center;">13-1. Кулуар на спуске от оз. 2770 в д.р. Махар</p>
+<div><a name="ph_13-1"></a>
+<img src="images/sample_1600/DSCF7271-Pano.jpg" alt="Фото 13-1. Кулуар на спуске от оз. 2770 в д.р. Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-1. Кулуар на спуске от оз. 2770 в д.р. Махар</p></div>
 
-<a name="ph_13-2"></a>
-![](images/sample_1600/DSCF7305-Pano.jpg "Фото 13-2. Общий вид спуска от оз. 2770 в д.р. Махар, треугольником обозначено место обеда")
-<p style="text-align: center;">13-2. Общий вид спуска от оз. 2770 в д.р. Махар, треугольником обозначено место обеда</p>
+<div><a name="ph_13-2"></a>
+<img src="images/sample_1600/DSCF7305-Pano.jpg" alt="Фото 13-2. Общий вид спуска от оз. 2770 в д.р. Махар, треугольником обозначено место обеда" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-2. Общий вид спуска от оз. 2770 в д.р. Махар, треугольником обозначено место обеда</p></div>
 
-<a name="ph_13-3"></a>
-![](images/sample_1600/DSCF7288.jpg "Фото 13-3. Сломанный мост через р. Махар")
-<p style="text-align: center;">13-3. Сломанный мост через р. Махар</p>
+<div><a name="ph_13-3"></a>
+<img src="images/sample_1600/DSCF7288.jpg" alt="Фото 13-3. Сломанный мост через р. Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-3. Сломанный мост через р. Махар</p></div>
 
-<a name="ph_13-4"></a>
-![](images/sample_1600/DSCF7290.jpg "Фото 13-4. Брод р. Чаулу-Чат в ее устье")
-<p style="text-align: center;">13-4. Брод р. Чаулу-Чат в ее устье</p>
+<div><a name="ph_13-4"></a>
+<img src="images/sample_1600/DSCF7290.jpg" alt="Фото 13-4. Брод р. Чаулу-Чат в ее устье" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-4. Брод р. Чаулу-Чат в ее устье</p></div>
 
-<a name="ph_13-5"></a>
-![](images/sample_1600/DSCF7298.jpg "Фото 13-5. Путь через крупную осыпь в д.р. Чаулу-Чат")
-<p style="text-align: center;">13-5. Путь через крупную осыпь в д.р. Чаулу-Чат</p>
+<div><a name="ph_13-5"></a>
+<img src="images/sample_1600/DSCF7298.jpg" alt="Фото 13-5. Путь через крупную осыпь в д.р. Чаулу-Чат" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-5. Путь через крупную осыпь в д.р. Чаулу-Чат</p></div>
 
-<a name="ph_13-6"></a>
-![](images/sample_1600/DSCF7330-Pano.jpg "Фото 13-6. Озеро 2574")
-<p style="text-align: center;">13-6. Озеро 2574</p>
+<div><a name="ph_13-6"></a>
+<img src="images/sample_1600/DSCF7330-Pano.jpg" alt="Фото 13-6. Озеро 2574" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 13-6. Озеро 2574</p></div>
 
 <a name="photo_end_13"></a>
 
@@ -1426,65 +1426,65 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 На подъем из верховьев р. Кичи-Муруджу в направлении пер. Седло просматриваются два варианта движения. Первый вариант – пройти выше по течению ручья и затем преодолеть ступень бараньих лбов к СЗ от водопада. Второй вариант – отклониться сильно на З и обойти скалы с З, затем с С сверху. Второй вариант кажется нам хотя и более длинным, но и более безопасным ([Фото 14-13](#ph_14-13)). Переходим ручьи и начинаем подниматься по травянистому склону на правый борт долины в ЗСЗ направлении ([Фото 14-14](#ph_14-14)). Через 20 минут, в 15.10,  выходим к маленькому озеру, расположенному на плече склона. Это очень красивое место, решаем остаться здесь на ночевку ([Фото 14-15](#ph_14-15)) (`N 43.27428 E 41.87023` GPS).
 
 <a name="photo_14"></a>
-<a name="ph_14-1"></a>
-![](images/sample_1600/DSCF7486-Pano.jpg "Фото 14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08")
-<p style="text-align: center;">14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08</p>
+<div><a name="ph_14-1"></a>
+<img src="images/sample_1600/DSCF7486-Pano.jpg" alt="Фото 14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-1. Подъем от оз. 2574 к оз. 2910, треугольником обозначено место ночёвки 31.08</p></div>
 
-<a name="ph_14-2"></a>
-![](images/sample_1600/DSCF7463-Pano.jpg "Фото 14-2. Подъем от оз. 2574 к оз. 2910")
-<p style="text-align: center;">14-2. Подъем от оз. 2574 к оз. 2910</p>
+<div><a name="ph_14-2"></a>
+<img src="images/sample_1600/DSCF7463-Pano.jpg" alt="Фото 14-2. Подъем от оз. 2574 к оз. 2910" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-2. Подъем от оз. 2574 к оз. 2910</p></div>
 
-<a name="ph_14-3"></a>
-![](images/sample_1600/DSCF7495-Pano.jpg "Фото 14-3. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный")
-<p style="text-align: center;">14-3. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный</p>
+<div><a name="ph_14-3"></a>
+<img src="images/sample_1600/DSCF7495-Pano.jpg" alt="Фото 14-3. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-3. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный</p></div>
 
-<a name="ph_14-4"></a>
-![](images/sample_1600/DSCF7566-Pano.jpg "Фото 14-4. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный, вид с седловины")
-<p style="text-align: center;">14-4. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный, вид с седловины</p>
+<div><a name="ph_14-4"></a>
+<img src="images/sample_1600/DSCF7566-Pano.jpg" alt="Фото 14-4. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный, вид с седловины" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-4. Подъем от оз. 2910 к пер. Кичи-Муруджу Центральный, вид с седловины</p></div>
 
-<a name="ph_14-5"></a>
-![](images/sample_1600/DSCF7545-Pano.jpg "Фото 14-5. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с ЮЗ стороны")
-<p style="text-align: center;">14-5. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с ЮЗ стороны</p>
+<div><a name="ph_14-5"></a>
+<img src="images/sample_1600/DSCF7545-Pano.jpg" alt="Фото 14-5. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с ЮЗ стороны" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-5. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с ЮЗ стороны</p></div>
 
-<a name="ph_14-6"></a>
-![](images/sample_1600/DSCF7279-Pano.jpg "Фото 14-6. Общий вид подъема на пер. Кичи-Муруджу Центральный из д.р. Махар, треугольником обозначено место ночевки 31.08")
-<p style="text-align: center;">14-6. Общий вид подъема на пер. Кичи-Муруджу Центральный из д.р. Махар, треугольником обозначено место ночевки 31.08</p>
+<div><a name="ph_14-6"></a>
+<img src="images/sample_1600/DSCF7279-Pano.jpg" alt="Фото 14-6. Общий вид подъема на пер. Кичи-Муруджу Центральный из д.р. Махар, треугольником обозначено место ночевки 31.08" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-6. Общий вид подъема на пер. Кичи-Муруджу Центральный из д.р. Махар, треугольником обозначено место ночевки 31.08</p></div>
 
-<a name="ph_14-7"></a>
-![](images/sample_1600/DSCF7565.jpg "Фото 14-7. Табличка на пер. Кичи-Муруджу Центральный")
-<p style="text-align: center;">14-7. Табличка на пер. Кичи-Муруджу Центральный</p>
+<div><a name="ph_14-7"></a>
+<img src="images/sample_1600/DSCF7565.jpg" alt="Фото 14-7. Табличка на пер. Кичи-Муруджу Центральный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-7. Табличка на пер. Кичи-Муруджу Центральный</p></div>
 
-<a name="ph_14-8"></a>
-![](images/sample_1600/DSCF7596.jpg "Фото 14-8. Группа на пер. Кичи-Муруджу Центральный")
-<p style="text-align: center;">14-8. Группа на пер. Кичи-Муруджу Центральный</p>
+<div><a name="ph_14-8"></a>
+<img src="images/sample_1600/DSCF7596.jpg" alt="Фото 14-8. Группа на пер. Кичи-Муруджу Центральный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-8. Группа на пер. Кичи-Муруджу Центральный</p></div>
 
-<a name="ph_14-9"></a>
-![](images/sample_1600/DSCF7571-Pano.jpg "Фото 14-9. Путь спуска с пер. Кичи-Муруджу Центральный на СВ")
-<p style="text-align: center;">14-9. Путь спуска с пер. Кичи-Муруджу Центральный на СВ</p>
+<div><a name="ph_14-9"></a>
+<img src="images/sample_1600/DSCF7571-Pano.jpg" alt="Фото 14-9. Путь спуска с пер. Кичи-Муруджу Центральный на СВ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-9. Путь спуска с пер. Кичи-Муруджу Центральный на СВ</p></div>
 
-<a name="ph_14-10"></a>
-![](images/sample_1600/DSCF7606-Pano.jpg "Фото 14-10. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950 и путь подъема к пер. Седло, треугольниками обозначены места стоянок")
-<p style="text-align: center;">14-10. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950 и путь подъема к пер. Седло, треугольниками обозначены места стоянок</p>
+<div><a name="ph_14-10"></a>
+<img src="images/sample_1600/DSCF7606-Pano.jpg" alt="Фото 14-10. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950 и путь подъема к пер. Седло, треугольниками обозначены места стоянок" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-10. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950 и путь подъема к пер. Седло, треугольниками обозначены места стоянок</p></div>
 
-<a name="ph_14-11"></a>
-![](images/sample_1600/DSCF7628.jpg "Фото 14-11. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950")
-<p style="text-align: center;">14-11. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950</p>
+<div><a name="ph_14-11"></a>
+<img src="images/sample_1600/DSCF7628.jpg" alt="Фото 14-11. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-11. Характер спуска через кулуар от пер. Кичи-Муруджу Центральный к оз. 2950</p></div>
 
-<a name="ph_14-12"></a>
-![](images/sample_1600/DSCF7649.jpg "Фото 14-12. Спуск в д.р. Кичи-Муруджу от оз. 2950")
-<p style="text-align: center;">14-12. Спуск в д.р. Кичи-Муруджу от оз. 2950</p>
+<div><a name="ph_14-12"></a>
+<img src="images/sample_1600/DSCF7649.jpg" alt="Фото 14-12. Спуск в д.р. Кичи-Муруджу от оз. 2950" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-12. Спуск в д.р. Кичи-Муруджу от оз. 2950</p></div>
 
-<a name="ph_14-13"></a>
-![](images/sample_1600/DSCF7641-Pano.jpg "Фото 14-13. Пути подъема из д.р. Кичи-Муруджу к пер. Седло, синим отмечен альтернативный вариант пути")
-<p style="text-align: center;">14-13. Пути подъема из д.р. Кичи-Муруджу к пер. Седло, синим отмечен альтернативный вариант пути</p>
+<div><a name="ph_14-13"></a>
+<img src="images/sample_1600/DSCF7641-Pano.jpg" alt="Фото 14-13. Пути подъема из д.р. Кичи-Муруджу к пер. Седло, синим отмечен альтернативный вариант пути" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-13. Пути подъема из д.р. Кичи-Муруджу к пер. Седло, синим отмечен альтернативный вариант пути</p></div>
 
-<a name="ph_14-14"></a>
-![](images/sample_1600/DSCF7652.jpg "Фото 14-14. Путь подъема из д.р. Кичи-Муруджу к оз. 2850, треугольником обозначено место ночевки")
-<p style="text-align: center;">14-14. Путь подъема из д.р. Кичи-Муруджу к оз. 2850, треугольником обозначено место ночевки</p>
+<div><a name="ph_14-14"></a>
+<img src="images/sample_1600/DSCF7652.jpg" alt="Фото 14-14. Путь подъема из д.р. Кичи-Муруджу к оз. 2850, треугольником обозначено место ночевки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-14. Путь подъема из д.р. Кичи-Муруджу к оз. 2850, треугольником обозначено место ночевки</p></div>
 
-<a name="ph_14-15"></a>
-![](images/sample_1600/DSCF7677.jpg "Фото 14-15. Место ночевки у оз. 2850")
-<p style="text-align: center;">14-15. Место ночевки у оз. 2850</p>
+<div><a name="ph_14-15"></a>
+<img src="images/sample_1600/DSCF7677.jpg" alt="Фото 14-15. Место ночевки у оз. 2850" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 14-15. Место ночевки у оз. 2850</p></div>
 
 <a name="photo_end_14"></a>
 
@@ -1504,13 +1504,13 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Просыпаемся в 4.30, понимаем, что идет дождь. В 6.20 дождь прекращается – подъем. В 7.40 выходим в направлении подъема на пер. Седло. Снова начинает идти дождь. Движемся наверх по травянистому склону на СЗ, затем поворачиваем к СВ и поднимаемся по травянистым и осыпным полочкам на ступени бараньих лбов. Крутизна подъема 15-20 градусов, местами до 30 ([Фото 15-1](#ph_15-1)). Через 1 час 10 минут выходим на среднюю осыпь над скалами и идем на В. Затем проходим цирк траверсом склона и поднимаемся по травянисто-осыпному склону под пер. Седло через 50 минут. Ставим палатку на каменистом уплощении у перевала Седло (`N 43.27910 E 41.88298` GPS). Подъем от оз. 2850 под пер. Седло занял 2 часа ЧХВ ([Фото 15-2](#ph_15-2)). Все промокли и замерзли, хотим переждать дождь и согреться. Однако, дождь усиливается и переходит в снег. При необходимости выйти из палатки участники очищают палатку снаружи от сугроба мокрого снега, чтобы не сломались дуги от тяжести. Снег до вечера не прекращается, остаёмся ночевать. Перед наступлением темноты ставим вторую палатку. Ночью снег и сильный порывистый ветер. Временами придерживаем дуги палатки изнутри - очень сильно гнутся, но в итоге без поломок обошлось.
 
 <a name="photo_15"></a>
-<a name="ph_15-1"></a>
-![](images/sample_1600/DSCF7688.jpg "Фото 15-1. Характер подъема от оз. 2850 под пер. Седло")
-<p style="text-align: center;">15-1. Характер подъема от оз. 2850 под пер. Седло</p>
+<div><a name="ph_15-1"></a>
+<img src="images/sample_1600/DSCF7688.jpg" alt="Фото 15-1. Характер подъема от оз. 2850 под пер. Седло" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 15-1. Характер подъема от оз. 2850 под пер. Седло</p></div>
 
-<a name="ph_15-2"></a>
-![](images/sample_1600/DSCF7716-Pano.jpg "Фото 15-2. Путь подъема под пер. Седло, треугольником обозначено место ночевки")
-<p style="text-align: center;">15-2. Путь подъема под пер. Седло, треугольником обозначено место ночевки</p>
+<div><a name="ph_15-2"></a>
+<img src="images/sample_1600/DSCF7716-Pano.jpg" alt="Фото 15-2. Путь подъема под пер. Седло, треугольником обозначено место ночевки" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 15-2. Путь подъема под пер. Седло, треугольником обозначено место ночевки</p></div>
 
 <a name="photo_end_15"></a>
 
@@ -1547,33 +1547,33 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 За 1 час 16 минут по пути подъема спускаемся к месту ночевки 31.08-1.09 и в 17.36 останавливаемся также на Ю берегу озера 2574, только ближе к воде, так как площадки, на которых мы стояли в прошлый раз, залило водой (`N 43.25158 E 41.90783` GPS).
 
 <a name="photo_16"></a>
-<a name="ph_16-1"></a>
-![](images/sample_1600/DSCF7724.jpg "Фото 16-1. Место ночевки под пер. Седло")
-<p style="text-align: center;">16-1. Место ночевки под пер. Седло</p>
+<div><a name="ph_16-1"></a>
+<img src="images/sample_1600/DSCF7724.jpg" alt="Фото 16-1. Место ночевки под пер. Седло" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-1. Место ночевки под пер. Седло</p></div>
 
-<a name="ph_16-2"></a>
-![](images/sample_1600/DSCF7750.jpg "Фото 16-2. Характер спуска по осыпи от пер. Седло")
-<p style="text-align: center;">16-2. Характер спуска по осыпи от пер. Седло</p>
+<div><a name="ph_16-2"></a>
+<img src="images/sample_1600/DSCF7750.jpg" alt="Фото 16-2. Характер спуска по осыпи от пер. Седло" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-2. Характер спуска по осыпи от пер. Седло</p></div>
 
-<a name="ph_16-3"></a>
-![](images/sample_1600/DSCF7817.jpg "Фото 16-3. Озеро 2850")
-<p style="text-align: center;">16-3. Озеро 2850</p>
+<div><a name="ph_16-3"></a>
+<img src="images/sample_1600/DSCF7817.jpg" alt="Фото 16-3. Озеро 2850" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-3. Озеро 2850</p></div>
 
-<a name="ph_16-4"></a>
-![](images/sample_1600/DSCF7811.jpg "Фото 16-4. Путь подъема из д.р. Кичи-Муруджу к оз. 2950, треугольником обозначено место обеда 1.09 и 3.09")
-<p style="text-align: center;">16-4. Путь подъема из д.р. Кичи-Муруджу к оз. 2950, треугольником обозначено место обеда 1.09 и 3.09</p>
+<div><a name="ph_16-4"></a>
+<img src="images/sample_1600/DSCF7811.jpg" alt="Фото 16-4. Путь подъема из д.р. Кичи-Муруджу к оз. 2950, треугольником обозначено место обеда 1.09 и 3.09" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-4. Путь подъема из д.р. Кичи-Муруджу к оз. 2950, треугольником обозначено место обеда 1.09 и 3.09</p></div>
 
-<a name="ph_16-5"></a>
-![](images/sample_1600/DSCF7850.jpg "Фото 16-5. Место обеда у оз. 2950")
-<p style="text-align: center;">16-5. Место обеда у оз. 2950</p>
+<div><a name="ph_16-5"></a>
+<img src="images/sample_1600/DSCF7850.jpg" alt="Фото 16-5. Место обеда у оз. 2950" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-5. Место обеда у оз. 2950</p></div>
 
-<a name="ph_16-6"></a>
-![](images/sample_1600/DSCF7925.jpg "Фото 16-6. Подъем от оз. 2950 к пер. Кичи-Муруджу Центральный")
-<p style="text-align: center;">16-6. Подъем от оз. 2950 к пер. Кичи-Муруджу Центральный</p>
+<div><a name="ph_16-6"></a>
+<img src="images/sample_1600/DSCF7925.jpg" alt="Фото 16-6. Подъем от оз. 2950 к пер. Кичи-Муруджу Центральный" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-6. Подъем от оз. 2950 к пер. Кичи-Муруджу Центральный</p></div>
 
-<a name="ph_16-7"></a>
-![](images/sample_1600/DSCF7963.jpg "Фото 16-7. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с СВ")
-<p style="text-align: center;">16-7. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с СВ</p>
+<div><a name="ph_16-7"></a>
+<img src="images/sample_1600/DSCF7963.jpg" alt="Фото 16-7. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с СВ" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 16-7. Подъем на перевальный взлет пер. Кичи-Муруджу Центральный с СВ</p></div>
 
 <a name="photo_end_16"></a>
 
@@ -1617,21 +1617,21 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 чтобы избежать и этого сброса в 100 м. Оставляем этот вопрос нашим последователям.
 
 <a name="photo_17"></a>
-<a name="ph_17-1"></a>
-![](images/sample_1600/DSCF8284-Pano.jpg "Фото 17-1. Спуск в д.р. Махар, треугольником обозначено место обеда")
-<p style="text-align: center;">17-1. Спуск в д.р. Махар, треугольником обозначено место обеда</p>
+<div><a name="ph_17-1"></a>
+<img src="images/sample_1600/DSCF8284-Pano.jpg" alt="Фото 17-1. Спуск в д.р. Махар, треугольником обозначено место обеда" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 17-1. Спуск в д.р. Махар, треугольником обозначено место обеда</p></div>
 
-<a name="ph_17-2"></a>
-![](images/sample_1600/DSCF8330.jpg "Фото 17-2. Мост через р. Махар")
-<p style="text-align: center;">17-2. Мост через р. Махар</p>
+<div><a name="ph_17-2"></a>
+<img src="images/sample_1600/DSCF8330.jpg" alt="Фото 17-2. Мост через р. Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 17-2. Мост через р. Махар</p></div>
 
-<a name="ph_17-3"></a>
-![](images/sample_1600/DSCF8326.jpg "Фото 17-3. Путь по дороге в д.р. Махар")
-<p style="text-align: center;">17-3. Путь по дороге в д.р. Махар</p>
+<div><a name="ph_17-3"></a>
+<img src="images/sample_1600/DSCF8326.jpg" alt="Фото 17-3. Путь по дороге в д.р. Махар" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 17-3. Путь по дороге в д.р. Махар</p></div>
 
-<a name="ph_17-4"></a>
-![](images/sample_1600/DSCF8361.jpg "Фото 17-4. Место ночевки на берегу р. Учкулан")
-<p style="text-align: center;">17-4. Место ночевки на берегу р. Учкулан</p>
+<div><a name="ph_17-4"></a>
+<img src="images/sample_1600/DSCF8361.jpg" alt="Фото 17-4. Место ночевки на берегу р. Учкулан" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 17-4. Место ночевки на берегу р. Учкулан</p></div>
 
 <a name="photo_end_17"></a>
 
@@ -1653,21 +1653,21 @@ E-mail: <tt>dichlofos-mv@yandex.ru</tt>
 Проходим через Верхний Учкулан по главной улице и через 50 минут после моста через р. Учкуланичи поворачиваем в Ю направлении и поднимаемся вверх по правому берегу р. Учкуланичи по грунтовой дороги до окраины аула. Спустя полчаса отходим с дороги и встаем на ночевку ([Фото 18-4](#ph_18-4)) (`N 43.43852 E 42.07181` GPS).
 
 <a name="photo_18"></a>
-<a name="ph_18-1"></a>
-![](images/sample_1600/DSCF8422.jpg "Фото 18-1. Характер дороги в д.р. Учкулан")
-<p style="text-align: center;">18-1. Характер дороги в д.р. Учкулан</p>
+<div><a name="ph_18-1"></a>
+<img src="images/sample_1600/DSCF8422.jpg" alt="Фото 18-1. Характер дороги в д.р. Учкулан" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 18-1. Характер дороги в д.р. Учкулан</p></div>
 
-<a name="ph_18-2"></a>
-![](images/sample_1600/DSCF8468.jpg "Фото 18-2. Характер дороги в д.р. Учкулан")
-<p style="text-align: center;">18-2. Характер дороги в д.р. Учкулан</p>
+<div><a name="ph_18-2"></a>
+<img src="images/sample_1600/DSCF8468.jpg" alt="Фото 18-2. Характер дороги в д.р. Учкулан" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 18-2. Характер дороги в д.р. Учкулан</p></div>
 
-<a name="ph_18-3"></a>
-![](images/sample_1600/DSCF8518.jpg "Фото 18-3. Группа в ауле Верхний Учкулан")
-<p style="text-align: center;">18-3. Группа в ауле Верхний Учкулан</p>
+<div><a name="ph_18-3"></a>
+<img src="images/sample_1600/DSCF8518.jpg" alt="Фото 18-3. Группа в ауле Верхний Учкулан" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 18-3. Группа в ауле Верхний Учкулан</p></div>
 
-<a name="ph_18-4"></a>
-![](images/sample_1600/DSCF8527.jpg "Фото 18-4. Место ночевки в д.р. Учкуланичи")
-<p style="text-align: center;">18-4. Место ночевки в д.р. Учкуланичи</p>
+<div><a name="ph_18-4"></a>
+<img src="images/sample_1600/DSCF8527.jpg" alt="Фото 18-4. Место ночевки в д.р. Учкуланичи" />
+<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">Фото 18-4. Место ночевки в д.р. Учкуланичи</p></div>
 
 <a name="photo_end_18"></a>
 

@@ -136,7 +136,8 @@ def _replace_photo_blocks(photos_by_day, report_text):
                 '<div><a name="ph_{photo_id}"></a>\n'
                 # '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
                 '<img src="images/sample_1600/{image_name}.jpg" alt="Фото {photo_id}. {description}" />\n'
-                '<p style="text-align: center">{photo_id}. {description}</p></div>\n\n'
+                '<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">'
+                'Фото {photo_id}. {description}</p></div>\n\n'
             ).format(
                 photo_id=photo_id,
                 image_name=image_name,
