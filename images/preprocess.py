@@ -2,11 +2,14 @@
 
 import os
 import re
+import sys
 
 
 _PHOTOS_DESC_NAME = "images.tsv"
 _REPORT_NAME = "../source_report_gvandra_2021.md"
 _OUTPUT_REPORT_NAME = "../report_gvandra_2021.md"
+
+_PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
 
 def _flush_block(day, photo_block, report_text):
@@ -132,17 +135,31 @@ def _replace_photo_blocks(photos_by_day, report_text):
             photo_link = "sample_1600/{image_name}.jpg".format(image_name=image_name)
             assert os.path.exists(photo_link), photo_link + " does not exist"
 
-            md_line = (
-                '<div><a name="ph_{photo_id}"></a>\n'
-                # '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
-                '<img src="images/sample_1600/{image_name}.jpg" alt="Фото {photo_id}. {description}" />\n'
-                '<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">'
-                'Фото {photo_id}. {description}</p></div>\n\n'
-            ).format(
-                photo_id=photo_id,
-                image_name=image_name,
-                description=photo["description"],
-            )
+            if _PANDOC:
+                md_line = (
+                    '\n'
+                    '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                    '\n'
+                    '**Фото {photo_id}**. {description}\n'
+                    '\n'
+                ).format(
+                    photo_id=photo_id,
+                    image_name=image_name,
+                    description=photo["description"],
+                )
+            else:
+                md_line = (
+                    '<div><a name="ph_{photo_id}"></a>\n'
+                    # '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                    '<img src="images/sample_1600/{image_name}.jpg" alt="Фото {photo_id}. {description}" />\n'
+                    '<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">'
+                    'Фото {photo_id}. {description}</p></div>\n\n'
+                ).format(
+                    photo_id=photo_id,
+                    image_name=image_name,
+                    description=photo["description"],
+                )
+
             # print(md_line)
             photo_block += md_line
 
