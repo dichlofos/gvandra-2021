@@ -203,6 +203,7 @@ def main():
     photos, photos_by_day = _load_photos()
 
     source_report_text = source_report_text.replace('\r', '')
+    source_report_text = source_report_text.replace('~', '&nbsp;')
     source_report_text = _replace_photo_blocks(photos_by_day, source_report_text)
 
     # fix times in tables
