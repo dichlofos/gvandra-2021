@@ -8,10 +8,10 @@ for i in *.jpg ; do
     output="$dir_name/$i"
     if (( $width > $height )) ; then
         # horizontal orientation
-        convert -resize 2300x -quality 85 $i $output
+        convert -resize 1200x -quality 85 $i $output
     else
         # vertical orientation
-        convert -resize x2400 -quality 85 $i $output
+        convert -resize x1200 -quality 85 $i $output
     fi
     input_size=$(stat -c '%s' $i)
     output_size=$(stat -c '%s' $output)
