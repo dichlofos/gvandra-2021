@@ -137,15 +137,15 @@ def _replace_photo_blocks(photos_by_day, report_text):
             image_name = photo["image_name"]
             photo_id = "{}-{}".format(day, photo["in_day"])
             # FIXME(2 links)
-            photo_link = "reduced_85/{image_name}.jpg".format(image_name=image_name)
+            photo_link = "reduced/{image_name}.jpg".format(image_name=image_name)
             assert os.path.exists(photo_link), photo_link + " does not exist"
 
             if _PANDOC:
                 md_line = (
                     '\n'
-                    '![](images/{photo_link} "Фото {photo_id}. {description}")\n'
+                    '![](images/{photo_link} "Фото {photo_id}. {description}"){{ width=17cm }}\n'
                     '\n'
-                    '**Фото {photo_id}**. {description}\n'
+                    '**Фото {photo_id}**. {description}'
                     '\n'
                 ).format(
                     photo_id=photo_id,
@@ -251,6 +251,9 @@ def main():
                 in_segment_table = True
 
             if in_segment_table:
+                if '-|-' in line:
+                    line = "-----|-|-|-|-----"
+
                 cols = line.split('|')
                 assert len(cols) == 5, str(len(cols))
                 cols[2] = cols[2].replace('ЧХВ группы', 'ЧХВ')
