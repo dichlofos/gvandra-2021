@@ -11,5 +11,5 @@ pandoc report_gvandra_2021_ch.md metadata.yaml \
     -V geometry="right=1cm" \
     -V geometry="bottom=2cm" \
     --pdf-engine=xelatex \
-    -o report_gvandra_2021_pandoc.pdf
+    -o report_gvandra_2021_ch.pdf
 
