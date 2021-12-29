@@ -136,25 +136,25 @@ def _replace_photo_blocks(photos_by_day, report_text):
         for photo in day_photos:
             image_name = photo["image_name"]
             photo_id = "{}-{}".format(day, photo["in_day"])
-            photo_link = "sample_1600/{image_name}.jpg".format(image_name=image_name)
+            # FIXME(2 links)
+            photo_link = "reduced_85/{image_name}.jpg".format(image_name=image_name)
             assert os.path.exists(photo_link), photo_link + " does not exist"
 
             if _PANDOC:
                 md_line = (
                     '\n'
-                    '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
+                    '![](images/{photo_link} "Фото {photo_id}. {description}")\n'
                     '\n'
                     '**Фото {photo_id}**. {description}\n'
                     '\n'
                 ).format(
                     photo_id=photo_id,
-                    image_name=image_name,
+                    photo_link=photo_link,
                     description=photo["description"],
                 )
             else:
                 md_line = (
                     '<div><a name="ph_{photo_id}"></a>\n'
-                    # '![](images/sample_1600/{image_name}.jpg "Фото {photo_id}. {description}")\n'
                     '<img src="images/sample_1600/{image_name}.jpg" alt="Фото {photo_id}. {description}" />\n'
                     '<p style="text-align: center; padding-bottom: 12pt; padding-top: 0pt;">'
                     'Фото {photo_id}. {description}</p></div>\n\n'
