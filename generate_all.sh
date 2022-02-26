@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 set -xe
-cd images
 python3 preprocess.py pandoc
-cd -
 pandoc report_gvandra_2021_ch.md metadata.yaml \
     -V mainfont="Liberation Serif" \
     -V papersize="a4" \
