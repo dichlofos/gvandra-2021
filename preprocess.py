@@ -5,15 +5,15 @@ import re
 import sys
 
 
-_PHOTOS_DESC_NAME = "images.tsv"
+_PHOTOS_DESC_NAME = "images/images.tsv"
 
 # input (master) source
-_REPORT_NAME = "../source_report_gvandra_2021.md"
+_REPORT_NAME = "source_report_gvandra_2021.md"
 # output source
-_KOSHER_REPORT_NAME = "../source_report_gvandra_2021_ch.md"
+_KOSHER_REPORT_NAME = "source_report_gvandra_2021_ch.md"
 # output files for render
-_OUTPUT_REPORT_NAME = "../report_gvandra_2021.md"
-_KOSHER_OUTPUT_REPORT_NAME = "../report_gvandra_2021_ch.md"
+_OUTPUT_REPORT_NAME = "report_gvandra_2021.md"
+_KOSHER_OUTPUT_REPORT_NAME = "report_gvandra_2021_ch.md"
 
 _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
@@ -139,13 +139,13 @@ def _replace_photo_blocks(photos_by_day, report_text):
             image_name = photo["image_name"]
             photo_id = "{}-{}".format(day, photo["in_day"])
             # FIXME(2 links)
-            photo_link = "reduced/{image_name}.jpg".format(image_name=image_name)
+            photo_link = "images/reduced/{image_name}.jpg".format(image_name=image_name)
             assert os.path.exists(photo_link), photo_link + " does not exist"
 
             if _PANDOC:
                 md_line = (
                     '\n'
-                    '![](images/{photo_link} "Фото {photo_id}. {description}"){{ width=17cm }}\n'
+                    '![]({photo_link} "Фото {photo_id}. {description}"){{ width=17cm }}\n'
                     '\n'
                     '**Фото {photo_id}**. {description}'
                     '\n'
