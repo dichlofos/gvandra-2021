@@ -7,9 +7,11 @@ import sys
 
 _PHOTOS_DESC_NAME = "images.tsv"
 
+# input (master) source
 _REPORT_NAME = "../source_report_gvandra_2021.md"
+# output source
 _KOSHER_REPORT_NAME = "../source_report_gvandra_2021_ch.md"
-
+# output files for render
 _OUTPUT_REPORT_NAME = "../report_gvandra_2021.md"
 _KOSHER_OUTPUT_REPORT_NAME = "../report_gvandra_2021_ch.md"
 
