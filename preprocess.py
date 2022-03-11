@@ -10,10 +10,15 @@ _PHOTOS_DESC_NAME = "images/images.tsv"
 # input (master) source
 _REPORT_NAME = "source_report_gvandra_2021.md"
 # output source
-_KOSHER_REPORT_NAME = "source_report_gvandra_2021_ch.md"
-# output files for render
-_OUTPUT_REPORT_NAME = "report_gvandra_2021.md"
-_KOSHER_OUTPUT_REPORT_NAME = "report_gvandra_2021_ch.md"
+_REPORT_NAME_CH = "source_report_gvandra_2021_ch.md"
+
+# Output files:
+# Markdown, for github/view
+_OUTPUT_REPORT_NAME_MD = "report_gvandra_2021.md"
+# PDF, for site/upload
+_OUTPUT_REPORT_NAME_PDF = "report_gvandra_2021_pdf.md"
+# PDF, for champ
+_OUTPUT_REPORT_NAME_CH = "report_gvandra_2021_ch.md"
 
 _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
@@ -196,12 +201,13 @@ def _replace_photo_links(photos, report_text):
     return report_text
 
 
-def _post_processing(photos, source_report_text, report_name, output_report_name):
+def _post_processing(photos, source_report_text, report_name, output_report_name, write_source=True):
 
-    # write fixed source
-    print("Source fixed, writing output to", report_name)
-    with open(report_name, 'w', encoding='utf-8') as f:
-        f.write(source_report_text)
+    if write_source:
+        # write fixed source
+        print("Source fixed, writing output to", report_name)
+        with open(report_name, 'w', encoding='utf-8') as f:
+            f.write(source_report_text)
 
     report_text = source_report_text
     # report_text =  _TEST_TEXT
@@ -214,7 +220,7 @@ def _post_processing(photos, source_report_text, report_name, output_report_name
     with open(output_report_name, 'w', encoding='utf-8') as f:
         f.write(report_text)
 
-    print("Output written to ", _OUTPUT_REPORT_NAME)
+    print("Output written to", output_report_name)
 
 
 def main():
@@ -271,10 +277,22 @@ def main():
         kosher_source_lines.append(kosher_line)
 
     source_report_text = '\n'.join(fixed_source_lines)
-    kosher_report_text = '\n'.join(kosher_source_lines)
+    ch_report_text = '\n'.join(kosher_source_lines)
 
-    _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME)
-    _post_processing(photos, kosher_report_text, _KOSHER_REPORT_NAME, _KOSHER_OUTPUT_REPORT_NAME)
+    md_report_text = source_report_text.replace('<!--@@BEGIN(MD)-->', '').replace('<!--@@END(MD)-->', '')
+    md_report_text = re.sub(r'<!--@@BEGIN.TEX.-->.*<!--@@END.TEX.-->', '', md_report_text, flags=re.DOTALL)
+    assert "@@BEGIN" not in md_report_text
+    assert "@@END" not in md_report_text
+
+    pdf_report_text = source_report_text.replace('<!--@@BEGIN(TEX)-->', '').replace('<!--@@END(TEX)-->', '')
+    pdf_report_text = re.sub(r'<!--@@BEGIN.MD.-->.*<!--@@END.MD.-->', '', pdf_report_text, flags=re.DOTALL)
+    assert "@@BEGIN" not in pdf_report_text
+    assert "@@END" not in pdf_report_text
+
+    _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD)
+    _post_processing(photos, md_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD, write_source=False)
+    _post_processing(photos, pdf_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_PDF, write_source=False)
+    _post_processing(photos, ch_report_text, _REPORT_NAME_CH, _OUTPUT_REPORT_NAME_CH)
 
 
 if __name__ == "__main__":
