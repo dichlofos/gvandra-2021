@@ -14,7 +14,7 @@
 - Протяжённость маршрута: 161.3 км (GPS, без коэффициентов)
 - Турклуб: [Горный Турклуб МГУ](https://www.geolink-group.com/tourclub)
 - По результатам Чемпионата Москвы 2021-2022 поход занял 7-е место, набрав `30.68` баллов, см [итоговый протокол](https://fst-otm.net/file/rezult/marshrut/chm2022/chm2022_gor_3_itog.pdf) Чемпионата.
-- Шифр TLIB: `XXXX-TLIB` (TODO)
+- Шифр TLIB: `1683-TLIB`
 <!--@@END(MD)-->
 <!--@@BEGIN(TEX)-->
 \begin{center}
