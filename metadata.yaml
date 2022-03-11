@@ -1,4 +1,5 @@
 ---
+colorlinks: true
 header-includes:
     - \newcommand{\hideFromPandoc}[1]{#1}
         \hideFromPandoc{
